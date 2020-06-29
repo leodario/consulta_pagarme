@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)https://app.rdstation.com.br/landing-pages/1373355/editar?page=2 -->
+<html class="html-builder "><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      
+  <title>RD Station Marketing</title>
+
+  <link rel="dns-prefetch" href="https://d3ndvx6e67vt0s.cloudfront.net/">
+  <link rel="dns-prefetch" href="https://assets.zendesk.com/">
+  <link rel="dns-prefetch" href="https://rdstation.zendesk.com/">
+
+  
+  <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/apple-touch-icon-57x57-ce62417a227b8c4ccedbc6273e511e3e645ec49d35af72b9105c611e25b2b672.png" sizes="57x57">
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/apple-touch-icon-114x114-99909a0daa61e845f053b5aab08b2f03e7d34e2d759cb0c0ed0ce11487b054a3.png" sizes="114x114">
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/apple-touch-icon-72x72-8019e298750cc786cf4a55cb8207f743c616afdb160565bec26bcaf4a287d743.png" sizes="72x72">
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/apple-touch-icon-144x144-80da19c74a185b329da114bd2276966a9718e48fc15b21044a3ef158c0405686.png" sizes="144x144">
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/apple-touch-icon-60x60-f523077acbbbb8016ddabf554cd9705948feca7f436881b7dd661de57c3315c6.png" sizes="60x60">
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/apple-touch-icon-120x120-838eac337cee04fe7f711b6cd3224fdc751b2ab65c89ade4a7b2a6ba807b0ed0.png" sizes="120x120">
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/apple-touch-icon-76x76-511c35044877bc90509faf0fe0210e589ecabb9d8149f363be75e7fdbe7498ed.png" sizes="76x76">
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/apple-touch-icon-152x152-21cef921902aba72609069a3fada26ed4b77f7e4365a5d91c65238c957f9c08e.png" sizes="152x152">
+<link rel="icon" type="image/png" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/favicon-196x196-277964d64350a6b6519e59cb329f4e550edb069ed888bcc4df262d117bce3134.png" sizes="196x196">
+<link rel="icon" type="image/png" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/favicon-96x96-986fcc09dd095c6d4e363751511e8694b6656216e518a9a3c79ed941ba3558ea.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/favicon-32x32-355468a7ff5c6a79b71c30814392e3d3f2328bf3505e913f0e1cdaac65249f61.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/favicon-16x16-71151ba198303b14888adab27fd6377f19c119e25ba0b40e85d6f0ee314280b9.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/favicons/favicon-128-1742f22ba11df1e740e6ebf1bf8eeb8d8639b7a0de0b691804eaabc1cc5b9bc1.png" sizes="128x128">
+<meta name="application-name" content="RD Station">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="//d3ndvx6e67vt0s.cloudfront.net/assets/favicons/mstile-144x144-80da19c74a185b329da114bd2276966a9718e48fc15b21044a3ef158c0405686.png">
+<meta name="msapplication-square70x70logo" content="//d3ndvx6e67vt0s.cloudfront.net/assets/favicons/mstile-70x70-1742f22ba11df1e740e6ebf1bf8eeb8d8639b7a0de0b691804eaabc1cc5b9bc1.png">
+<meta name="msapplication-square150x150logo" content="//d3ndvx6e67vt0s.cloudfront.net/assets/favicons/mstile-150x150-3dd37130e3dc38757de98e5bd2389038bb53633f695a2a7283f055ca14420fc0.png">
+<meta name="msapplication-wide310x150logo" content="//d3ndvx6e67vt0s.cloudfront.net/assets/favicons/mstile-310x150-faa8418406869109732552c9701bbcb1791e4889c288a18e12b9d9a957efd608.png">
+<meta name="msapplication-square310x310logo" content="//d3ndvx6e67vt0s.cloudfront.net/assets/favicons/mstile-310x310-0dd4cbd4e2c78af1bdc622794ae099ae581b28cb8135a9b4e3e59ed97848a9ce.png">
+
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="7+arrd3Nh9ZBVUY/bjQlCCW3KcozvRH1p7UWzcjFe9w7LgOjuV2crRpgnfSfcmIJ9ojK0JzY2+80/uBeRtQV0A==">
+
+  <script type="text/javascript" async="" src="./mark_files/hq3qq4eb"></script><script type="text/javascript" async="" src="./mark_files/pendo.js.download"></script><script type="text/javascript" async="" src="./mark_files/aptrinsic.js.download"></script><script type="text/javascript" async="" src="./mark_files/analytics.min.js.download"></script><script crossorigin="anonymous" integrity="sha256-4ZnAISy2+rbOaVUOBtJrqxBTrJ5kctu9r4qBJBt0Oo0=" type="text/javascript" src="./mark_files/appcues.main.40a6b605d29a66b083aa6d74c07bb73eae19e31b.js.download" async=""></script><script>
+//<![CDATA[
+
+  var globalConstants = {
+    email: {
+      urlUnsubscribe: 'http://app.rdstation.email/descadastrar/*UUID*',
+      urlView: 'http://app.rdstation.email/mail/*UUID*',
+      eventUnsubscribed: "4"
+    },
+    cityApi: "https://cidades.rdstation.com.br/api/cidades/",
+    customFieldAvailables: {
+        'CHECK_BOX' : '#js-custom-field-check-box',
+        'COMBO_BOX' : '#js-custom-field-combo-box',
+        'EMAIL_INPUT' : '#js-custom-field-email-input',
+        'MULTIPLE_CHOICE' : '#js-custom-field-multiple-choice',
+        'NUMBER_INPUT' : '#js-custom-field-number-input',
+        'PHONE_INPUT' : '#js-custom-field-phone-input',
+        'RADIO_BUTTON' : '#js-custom-field-radio-button',
+        'TEXT_AREA' : '#js-custom-field-text-area',
+        'TEXT_INPUT' : '#js-custom-field-text-input',
+        'URL_INPUT' : '#js-custom-field-url-input',
+    },
+    path: {
+      loading: "//d3ndvx6e67vt0s.cloudfront.net/assets/loading-f23e7e4d95227062491a5c7175d984c97d593781302d67dae3c007edc4b5de60.gif",
+      avatar: "//d3ndvx6e67vt0s.cloudfront.net/assets/avatar_-cc48418c0a3578157a08a9059b137c08e4c6b8de59ca931995b402e9c5a21fa8.png",
+      landingPageTinyCSS: "//d3ndvx6e67vt0s.cloudfront.net/assets/landing_page/tinymce_content-fce10d47c5eb21ee60ff7598668adaccc58338b170f189d64053379ee9de8a15.css",
+      ladingPageTinyTheme: '//d3ndvx6e67vt0s.cloudfront.net/assets/tinymce/v4/themes/modern/theme-09f93bc63b2777e1e235e98ee9cb2441e9534c4f91ce8056f5cf4b78543f594f.js',
+    },
+    cloudfront_distribution_url: "https://d335luupugsy2.cloudfront.net",
+    cloudfrontDistributionUrl: "https://d335luupugsy2.cloudfront.net",
+    socialConversion: {
+      proxyHost: "",
+      oauth: "https://rd-social-conversion.rdstation.com.br/",
+      oauthToken: "44b7b5cc-a8b4-4c7d-81af-993db44d2b06"
+    },
+    CDN: "//d3ndvx6e67vt0s.cloudfront.net",
+  };
+
+//]]>
+</script>
+
+  <!-- order matters -->
+  <link rel="stylesheet" media="screen" href="./mark_files/application-850dbb006522defbc4d22f892b03b1cf0ef6dbbd0c883a1c297fb9eaf8108d44.css">
+  
+  <link rel="preload" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/open-sans/cJZKeOuBrn4kERxqtaUH3ZBw1xU1rKptJj_0jans920-732d5765c33eff81c7825dcc5e8cd1eda32dc04f39da7cae66accf9580b1e3a7.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/open-sans/k3k702ZOKiLJc3WVjuplzBampu5_7CjHW5spxoeN3Vs-c7c63b43903d698f7c8b28360ce19c81b574db3288a8db01a29ac72ffba1327b.woff2" as="font" type="font/woff2" crossorigin="">
+
+
+  <!--[if lt IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <![endif]-->
+
+  <script>
+//<![CDATA[
+var AUTH_TOKEN = "4JpehXoC+tIfix28B3GIeoy4jaTN2Lq6wGDJlE2dQjI0UvaLHpLhqUS+xnf2N897X4duvmK9cKBTKz8Hw4wsPg==";
+//]]>
+</script>
+
+
+      <link rel="stylesheet" media="screen" href="./mark_files/landing_pages-ffbd36feffb36296606c0541ea3c55ae8a9a98bbc78d6781b8c2464d8d6f3c82.css">
+  <script>
+  var _rollbarConfig = {
+    accessToken: "4f8b66972e0b46c69043f3abc6ab5326",
+    captureUncaught: true,
+    captureUnhandledRejections: true,
+    payload: {
+      environment: "production"
+    },
+    enabled: true,
+  };
+  // Rollbar Snippet
+  !function(r){function o(n){if(e[n])return e[n].exports;var t=e[n]={exports:{},id:n,loaded:!1};return r[n].call(t.exports,t,t.exports,o),t.loaded=!0,t.exports}var e={};return o.m=r,o.c=e,o.p="",o(0)}([function(r,o,e){"use strict";var n=e(1),t=e(4);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.1/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,o,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}function t(r,o){this.options=r,this._rollbarOldOnError=null;var e=s++;this.shimId=function(){return e},window&&window._rollbarShims&&(window._rollbarShims[e]={handler:o,messages:[]})}function a(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShims={},r._rollbarWrappedError=null;var t=new p(o);return n(function(){o.captureUncaught&&(t._rollbarOldOnError=r.onerror,i.captureUncaughtExceptions(r,t,!0),i.wrapGlobals(r,t,!0)),o.captureUnhandledRejections&&i.captureUnhandledRejections(r,t,!0);var n=o.autoInstrument;return o.enabled!==!1&&(void 0===n||n===!0||"object"==typeof n&&n.network)&&r.addEventListener&&(r.addEventListener("load",t.captureLoad.bind(t)),r.addEventListener("DOMContentLoaded",t.captureDomContentLoaded.bind(t))),r[e]=t,t})()}function l(r){return n(function(){var o=this,e=Array.prototype.slice.call(arguments,0),n={shim:o,method:r,args:e,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)})}var i=e(2),s=0,d=e(3),c=function(r,o){return new t(r,o)},p=d.bind(null,c);t.prototype.loadFull=function(r,o,e,t,a){var l=function(){var o;if(void 0===r._rollbarDidLoad){o=new Error("rollbar.js did not load");for(var e,n,t,l,i=0;e=r._rollbarShims[i++];)for(e=e.messages||[];n=e.shift();)for(t=n.args||[],i=0;i<t.length;++i)if(l=t[i],"function"==typeof l){l(o);break}}"function"==typeof a&&a(o)},i=!1,s=o.createElement("script"),d=o.getElementsByTagName("script")[0],c=d.parentNode;s.crossOrigin="",s.src=t.rollbarJsUrl,e||(s.async=!0),s.onload=s.onreadystatechange=n(function(){if(!(i||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{c.removeChild(s)}catch(r){}i=!0,l()}}),c.insertBefore(s,d)},t.prototype.wrap=function(r,o,e){try{var n;if(n="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){e&&"function"==typeof e&&e.apply(this,arguments);try{return r.apply(this,arguments)}catch(e){var o=e;throw"string"==typeof o&&(o=new String(o)),o._rollbarContext=n()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<u.length;++f)t.prototype[u[f]]=l(u[f]);r.exports={setupShim:a,Rollbar:p}},function(r,o){"use strict";function e(r,o,e){if(r){var t;"function"==typeof o._rollbarOldOnError?t=o._rollbarOldOnError:r.onerror&&!r.onerror.belongsToShim&&(t=r.onerror,o._rollbarOldOnError=t);var a=function(){var e=Array.prototype.slice.call(arguments,0);n(r,o,t,e)};a.belongsToShim=e,r.onerror=a}}function n(r,o,e,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null),o.handleUncaughtException.apply(o,n),e&&e.apply(r,n)}function t(r,o,e){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),o&&o.handleUnhandledRejection&&o.handleUnhandledRejection(e,n)};n.belongsToShim=e,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}function a(r,o,e){if(r){var n,t,a="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<a.length;++n)t=a[n],r[t]&&r[t].prototype&&l(o,r[t].prototype,e)}}function l(r,o,e){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){for(var n=o.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(o,e,t){n.call(this,o,r.wrap(e),t)};t._rollbarOldAdd=n,t.belongsToShim=e,o.addEventListener=t;for(var a=o.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,o,e){a.call(this,r,o&&o._rollbar_wrapped||o,e)};l._rollbarOldRemove=a,l.belongsToShim=e,o.removeEventListener=l}}r.exports={captureUncaughtExceptions:e,captureUnhandledRejections:t,wrapGlobals:a}},function(r,o){"use strict";function e(r,o){this.impl=r(o,this),this.options=o,n(e.prototype)}function n(r){for(var o=function(r){return function(){var o=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,o)}},e="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),n=0;n<e.length;n++)r[e[n]]=o(e[n])}e.prototype._swapAndProcessMessages=function(r,o){this.impl=r(this.options);for(var e,n,t;e=o.shift();)n=e.method,t=e.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],e.ts]):this[n].apply(this,t));return this},r.exports=e},function(r,o){"use strict";r.exports=function(r){return function(o){if(!o&&!window._rollbarInitialized){r=r||{};for(var e,n,t=r.globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;e=window._rollbarShims[i++];)n||(n=e.handler),e.handler._swapAndProcessMessages(l,e.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
+  // End Rollbar Snippet
+</script>
+
+  <style type="text/css">
+    body {
+      padding-top: 46px;
+    }
+    section#content {
+      padding-bottom: 0px !important;
+      padding-top: 66px;
+    }
+  </style>
+  <link rel="stylesheet" media="screen" href="./mark_files/inline_edition_outer-e9ff1309a9ec5d075ba85c79765fde1486ff8902e9ed53a39c573fdb75694ca6.css">
+  <link rel="stylesheet" media="screen" href="./mark_files/form_fields_editor-b28d1f2b0553811742b71a2aae3cea275a77bc4d7753b91d589d4fe9b03682a0.css">
+
+  <style>
+    body { overflow-y: hidden; }
+    section#content {
+      padding-bottom: 0px !important;
+      padding-top: 66px;
+    }
+  </style>
+
+  <script type="text/javascript">
+    window.landingPageDesign = {"type":"page","properties":{"id":"rd-page-joq3m2nw","css":"@media (max-width: 600px){\n #rd-row-joq3m2ls {\n    min-height: 0;\n}\n#rd-row-joq3m2ls .bricks--column \u003e div {\n    min-height: 0;\n}\n}\n.bricks--section \u003e div {\n    max-width: 940px;\n}\n#rd-row-joq3m2ls .bricks--column \u003e div {\n    padding: 0;\n}\n.whatsapp {\n    position: fixed;\n    top: 62%;\n    left: 1%;\n    padding: 10px;\n    z-index: 10000000;\n}","title":"Page title example","width":860,"isFluid":false,"keywords":"some keywords words","className":"rd-page","enable_seo":true,"description":"Some page description content.","javascriptBody":" \u003cscript type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.min.js\"\u003e\u003c/script\u003e\r\n\u003cscript type=\"text/javascript\"\u003e\r\n (function () {\r\n $(document).ready(function () {\r\n $('#rd-text_field-k8llgpwa').mask('00/00/0000');\r\n $('#rd-text_field-k8llgpwd').mask('0.00');\r\n $('#rd-text_field-k8llgpwe').mask('000.00');\r\n });\r\n }());\r\n\u003c/script\u003e","javascriptHead":"\u003cscript type=\"text/javascript\"\u003e \u003c/script\u003e"},"children":[{"type":"section","properties":{"id":"rd-section-joq3m2lr","border":{"top":true,"left":false,"color":"transparent","right":false,"style":"none","width":1,"bottom":true,"radius":0},"className":"rd-section","background":{"url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585069889/$fj9s26ucuip","type":"image","color":"transparent","cover":true,"parallax":null,"position":{"x":50,"y":50},"imageColor":"rgba(126,211,33,1)","imageOrder":"below"}},"children":[{"type":"row","properties":{"id":"rd-row-joq3m2ls","padding":{"top":7,"left":7,"right":7,"bottom":7},"className":"rd-row","minHeight":525},"children":[{"type":"column","properties":{"id":"rd-column-joq3m2lt","size":12,"border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":0,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584985120/$23i1gm0whad","type":"transparent","color":"transparent","cover":true,"parallax":null,"position":{"x":50,"y":0},"imageColor":"rgba(126,211,33,1)","imageOrder":"below"},"alignInside":{"vertical":"bottom"}},"children":[{"type":"image","properties":{"id":"rd-image-k864h3vn","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585067771/$63ngtyqywet","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":940,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto6","margin":{"top":0,"bottom":0},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]}]}]},{"type":"section","properties":{"id":"rd-section-joq3m2lv","border":{"top":true,"left":false,"color":"#BBBBBB","right":false,"style":"none","width":0,"bottom":true,"radius":0},"className":"rd-section","background":{"url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585069889/$hw1466k8ks","type":"image","color":"transparent","cover":true,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"children":[{"type":"row","properties":{"id":"rd-row-joq3m2lw","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":758},"children":[{"type":"column","properties":{"id":"rd-column-joq3m2lx","size":6,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":0,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585066036/$lfy311ixl5","type":"image","color":"transparent","cover":true,"parallax":null,"position":{"x":50,"y":50},"imageColor":"rgba(126,211,33,0.17)","imageOrder":"over"},"alignInside":{"vertical":"top"}},"children":[{"type":"text","properties":{"id":"rd-text-joq3m2ly","align":"center","width":460,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":7,"bottom":7},"content":"\u003ch1 style=\"text-align: left;\"\u003e\u003cbr\u003e\u003c/h1\u003e\u003ch1 style=\"text-align: center;\"\u003e\u003cstrong style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif; font-size: 36px;\"\u003eAgende a sua \u003c/strong\u003e\u003cstrong style=\"color: rgb(126, 211, 33); font-family: Ubuntu, sans-serif; font-size: 36px;\"\u003eConsulta \u003c/strong\u003e\u003cstrong style=\"color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif; font-size: 36px;\"\u003ecom especialista\u003c/strong\u003e\u003c/h1\u003e","className":"rd-text"},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2lz","align":"center","width":460,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":7,"bottom":7},"content":"\u003cp style=\"text-align: center;\"\u003e\u003cspan style=\"color: rgb(0, 0, 0); font-size: 18px;\"\u003e﻿Agende uma conversa\u0026nbsp;e faça a escolha certa!﻿\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2m0","align":"center","width":451,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto0","margin":{"top":7,"bottom":7},"content":"\u003cp\u003e\u003cspan style=\"font-family: \u0026quot;Source Sans Pro\u0026quot;, sans-serif; font-size: 18px; color: rgb(0, 0, 0);\"\u003eÉ a sua oportunidade de ter uma consultoria exclusiva, antes de contratar o serviço. Com os melhores especialistas que vão ajudar você a tirar suas dúvidas e entender melhor suas necessidades\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]},{"type":"text","properties":{"id":"rd-text-k86428ip","align":"center","width":451,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto0","margin":{"top":7,"bottom":7},"content":"\u003cp style=\"text-align: center;\"\u003e\u003cstrong style=\"color: rgb(126, 211, 33); font-size: 30px; font-family: Ubuntu, sans-serif;\"\u003eNão é sobre perder peso. \u003c/strong\u003e\u003c/p\u003e\u003cp style=\"text-align: center;\"\u003e\u003cstrong style=\"color: rgb(126, 211, 33); font-size: 30px; font-family: Ubuntu, sans-serif;\"\u003e﻿5S é sobre GANHAR VIDA!\u003c/strong\u003e\u003c/p\u003e","className":"rd-text"},"children":[]},{"type":"text","properties":{"id":"rd-text-k864533i","align":"center","width":420,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto0","margin":{"top":7,"bottom":7},"content":"\u003cp style=\"text-align: center;\"\u003e\u003cbr\u003e\u003c/p\u003e\u003cp style=\"text-align: center;\"\u003e\u003cstrong style=\"color: rgb(0, 0, 0); font-size: 25px; font-family: Ubuntu, sans-serif;\"\u003eNÓS CUIDAMOS DE VOCÊ \u003c/strong\u003e\u003c/p\u003e\u003cp style=\"text-align: center;\"\u003e\u003cstrong style=\"color: rgb(0, 0, 0); font-size: 25px; font-family: Ubuntu, sans-serif;\"\u003ePÓS-TRATAMENTO NA MAIOR COMUNIDADE DE MANUTENÇÃO DE PESO DO PAÍS:\u003c/strong\u003e\u003cstrong style=\"color: rgb(196, 55, 94); font-size: 25px; font-family: Ubuntu, sans-serif;\"\u003e﻿\u003c/strong\u003e\u003c/p\u003e","className":"rd-text"},"children":[]},{"type":"image","properties":{"id":"rd-image-k864957y","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585066036/$7wox1x2ls2d","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":151,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":34},"height":"auto44","margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]},{"type":"column","properties":{"id":"rd-column-joq3m2m1","size":6,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"solid","width":0,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"color","color":"rgba(189,193,10,1)","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"box","properties":{"id":"rd-box-joq3m2m2","align":"center","width":400,"border":{"top":true,"left":true,"color":"#272e47","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":20,"bottom":80},"padding":{"top":0,"left":0,"right":0,"bottom":0},"className":"rd-box","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"children":[{"type":"text","properties":{"id":"rd-text-joq3m2m3","align":"center","width":360,"border":{"top":true,"left":true,"color":"#62e7fe","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":0,"bottom":0},"content":"\u003ch2 style=\"text-align: center;\"\u003e\u003cspan style=\"font-size: 28px; font-family: \u0026quot;Source Sans Pro\u0026quot;, sans-serif; color: rgb(255, 255, 255);\"\u003ePreencha os seus dados\u003c/span\u003e\u003c/h2\u003e","className":"rd-text"},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2m4","align":"center","width":360,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":0,"bottom":7},"content":"\u003cp style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: \u0026quot;Source Sans Pro\u0026quot;, sans-serif; font-size: 14px; color: rgb(255, 255, 255);\"\u003eEntraremos em contato para agendar sua consulta gratuita\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]},{"type":"form","properties":{"id":"rd-form-joq3m2m5","align":"center","width":360,"fields":{"font":{"bold":false,"size":16,"color":"#555555","family":"Source Sans Pro, sans-serif","italic":false},"border":{"top":true,"left":true,"color":"#a73131","right":true,"style":"none","width":0,"bottom":true,"radius":4},"height":32,"shadow":{"inner":true},"columns":1,"section":"fields","spacing":15,"background":{"url":"","type":"transparent","color":"#ffffff","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"height":-1,"labels":{"font":{"bold":false,"size":14,"color":"#ffffff","family":"Source Sans Pro, sans-serif","italic":false},"section":"labels","disabled":false},"margin":{"top":0,"bottom":0},"className":"rd-form"},"children":[{"type":"fieldset","properties":{"id":"rd-fieldset-k8llgpw7","className":"rd-fieldset","progressive_profiling":{"enabled":false,"max_number_of_fields":3}},"children":[{"type":"text_field","properties":{"id":"rd-text_field-k8llgpw8","name":"custom_fields[876795]","label":"Nome completo","required":true,"use_type":"STRING","className":"rd-text_field","api_identifier":"cf_nome_completo"},"children":[]},{"type":"email_field","properties":{"id":"rd-email_field-k8llgpw9","name":"email","label":"Email","required":true,"use_type":"STRING","className":"rd-email_field"},"children":[]},{"type":"text_field","properties":{"id":"rd-text_field-k8llgpwa","name":"custom_fields[954359]","label":"Data Nascimento","required":true,"use_type":"STRING","className":"rd-text_field","api_identifier":"cf_data_nascimento"},"children":[]},{"type":"phone_field","properties":{"id":"rd-phone_field-k8llgpwb","name":"personal_phone","label":"Telefone","required":true,"use_type":"STRING","className":"rd-phone_field","input_mask":"INTERNATIONAL_MASK"},"children":[]},{"type":"radio_buttons_field","properties":{"id":"rd-radio_buttons_field-k8llgpwc","name":"custom_fields[953991]","label":"Sexo","options":[{"label":"Masculino","value":"Masculino"},{"label":"Feminino","value":"Feminino"}],"required":true,"use_type":"STRING","className":"rd-radio_buttons_field","api_identifier":"cf_sexo"},"children":[]},{"type":"text_field","properties":{"id":"rd-text_field-k8llgpwd","name":"custom_fields[956995]","label":"Altura Ex: 1.70","required":true,"use_type":"STRING","className":"rd-text_field","api_identifier":"cf_altura_centimetros"},"children":[]},{"type":"text_field","properties":{"id":"rd-text_field-k8llgpwe","name":"custom_fields[953996]","label":"Peso. Ex: 070.00","required":true,"use_type":"STRING","className":"rd-text_field","api_identifier":"cf_peso"},"children":[]},{"type":"number_field","properties":{"id":"rd-number_field-k8llgpwf","name":"custom_fields[954459]","label":"Código da Clínica","required":true,"use_type":"STRING","className":"rd-number_field","api_identifier":"cf_codigo_da_clinica"},"children":[]},{"type":"captcha_field","properties":{"id":"rd-captcha_field-k8llgpwg","name":"captcha","label":"1 + 1 = ?","required":true,"className":"rd-captcha_field","visibleWhenSmartFormEnabled":true},"children":[]}]},{"type":"button","properties":{"id":"rd-button-joq3m2m7","font":{"bold":false,"size":22,"color":"#FFFFFF","family":"Ubuntu, sans-serif","italic":false,"underline":false},"link":{"href":"http://example.com","type":"web","title":"Any Title","target":"_blank"},"type":"submit","align":"center","label":"Agendar uma conversa","width":280,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":0,"bottom":true,"radius":35},"height":50,"margin":{"top":15,"bottom":0},"className":"rd-button","background":{"type":"color","color":"rgba(126,211,33,1)"}},"children":[]}]}]}]}]}]},{"type":"section","properties":{"id":"rd-section-joq3m2m8","border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"className":"rd-section","background":{"url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585069889/$7yjmlj2oeuo","type":"image","color":"transparent","cover":true,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"children":[{"type":"row","properties":{"id":"rd-row-k84xqx3n","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-k84xqx3o","size":12,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"text","properties":{"id":"rd-text-k84xr8em","align":"left","width":940,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto0","margin":{"top":10,"bottom":10},"content":"\u003cp style=\"text-align: center;\"\u003e\u003cstrong style=\"background-color: transparent; font-size: 30px; font-family: Ubuntu, sans-serif; color: rgb(126, 211, 33);\"\u003ePERDA DE PESO RÁPIDA, SAUDÁVEL E SUSTENTÁVEL. SEM PASSAR FOME. SEM REMÉDIOS. SEM OBRIGATORIEDADE DE EXERCÍCIOS FÍSICOS E REPROGRAMANDO O HIPOTÁLAMO.\u003c/strong\u003e\u003c/p\u003e","className":"rd-text"},"children":[]}]}]},{"type":"row","properties":{"id":"rd-row-joq3m2m9","padding":{"top":7,"left":7,"right":7,"bottom":7},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-joq3m2ma","size":12,"border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"color","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"image","properties":{"id":"rd-image-k84w38fv","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$8os1lhxvbil","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":936,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto47","margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2mb","align":"center","width":894,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto0","margin":{"top":"90","bottom":30},"content":"\u003cp style=\"text-align: center;\"\u003e\u003cstrong style=\"font-size: 38px; font-family: Ubuntu, sans-serif;\"\u003eAinda em dúvida\u0026nbsp;se o 5S é para você?\u003c/strong\u003e\u003c/p\u003e","className":"rd-text"},"children":[]},{"type":"text","properties":{"id":"rd-text-k84weto4","align":"center","width":326,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto-23","margin":{"top":10,"bottom":10},"content":"\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003eVEJA NO QUE ACREDITAMOS E VIVEMOS.\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]},{"type":"video","properties":{"id":"rd-video-k84wcwhh","url":"https://www.youtube.com/watch?v=IDd9Tf0f_4M","align":"center","width":520,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto70","margin":{"top":10,"bottom":10},"autoplay":false,"className":"rd-video","showRelatedVideos":false},"children":[]},{"type":"text","properties":{"id":"rd-text-k84weg8x","align":"center","width":314,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto-23","margin":{"top":10,"bottom":10},"content":"\u003cp\u003e\u003cspan style=\"font-size: 16px;\"\u003eNOSSA COMPROVAÇÃO CIENTÍFICA.\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]},{"type":"video","properties":{"id":"rd-video-k84wbkzg","url":"https://www.youtube.com/watch?v=uopy7Okg-0I","align":"center","width":523,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto74","margin":{"top":10,"bottom":10},"autoplay":false,"className":"rd-video","showRelatedVideos":false},"children":[]}]}]}]},{"type":"section","properties":{"id":"rd-section-k84xq10j","border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"className":"rd-section","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"children":[{"type":"row","properties":{"id":"rd-row-k84xq10k","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-k84xq10l","size":12,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"text","properties":{"id":"rd-text-k84xvf78","align":"center","width":725,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto-134","margin":{"top":10,"bottom":10},"content":"\u003cp\u003e\u003cstrong style=\"color: rgb(126, 211, 33); font-family: Ubuntu, sans-serif; font-size: 32px;\"\u003e﻿VEJA COMO É SIMPLES MARCAR SUA CONSULTA:\u003c/strong\u003e\u003c/p\u003e","className":"rd-text"},"children":[]}]}]}]},{"type":"section","properties":{"id":"rd-section-joq3m2mc","border":{"top":true,"left":false,"color":"#BBBBBB","right":false,"style":"solid","width":0,"bottom":true,"radius":0},"className":"rd-section","background":{"url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585069889/$iwu09v5s64","type":"image","color":"transparent","cover":true,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"children":[{"type":"row","properties":{"id":"rd-row-joq3m2md","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-joq3m2me","size":6,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"solid","width":0,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"image","properties":{"id":"rd-image-joq3m2mf","url":"https://d335luupugsy2.cloudfront.net/cms/files/68147/1540672580/$gku43lesnp","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":62,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":62,"margin":{"top":"20","bottom":"10"},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2mg","align":"center","width":400,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":0,"bottom":"20"},"content":"\u003cp\u003e\u003cspan style=\"font-size: 18px; font-family: \u0026quot;Source Sans Pro\u0026quot;, sans-serif;\"\u003eBasta preencher o cadastro acima com o código da clínica mais próxima de você e uma de nossas especialistas entrará em contato.\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]}]},{"type":"column","properties":{"id":"rd-column-joq3m2mh","size":6,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"solid","width":0,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"image","properties":{"id":"rd-image-joq3m2mi","url":"https://d335luupugsy2.cloudfront.net/cms/files/68147/1540672580/$gku43lesnp","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":62,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":62,"margin":{"top":"20","bottom":"10"},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2mj","align":"center","width":400,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":0,"bottom":"20"},"content":"\u003cp\u003e\u003cspan style=\"font-family: \u0026quot;Source Sans Pro\u0026quot;, sans-serif; font-size: 18px;\"\u003eNossa Coach 5S analisará seus objetivos e ajudar na escolha certa. A consulta pode ser por telefone, Skype ou whatsapp e dura em média 50 minutos.\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]}]}]}]},{"type":"section","properties":{"id":"rd-section-joq3m2mk","border":{"top":true,"left":false,"color":"#BBBBBB","right":false,"style":"solid","width":0,"bottom":true,"radius":0},"padding":{"top":0,"bottom":0},"className":"rd-section","background":{"url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585069889/$sr1vj2b69l","type":"image","color":"transparent","cover":true,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"children":[{"type":"row","properties":{"id":"rd-row-joq3m2ml","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-joq3m2mm","size":6,"border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"color","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"image","properties":{"id":"rd-image-joq3m2mn","url":"https://d335luupugsy2.cloudfront.net/cms/files/68147/1540672580/$gku43lesnp","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":62,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":62,"margin":{"top":"20","bottom":"10"},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2mo","align":"center","width":400,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":0,"bottom":"40"},"content":"\u003cp\u003e\u003cspan style=\"font-family: \u0026quot;Source Sans Pro\u0026quot;, sans-serif; font-size: 18px;\"\u003eTudo o que você precisa saber para garantir que tudo dê certo após contratar o serviço. Enviamos o contrato na certeza da escolha certa.\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]}]},{"type":"column","properties":{"id":"rd-column-joq3m2mp","size":6,"border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"color","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"image","properties":{"id":"rd-image-joq3m2mq","url":"https://d335luupugsy2.cloudfront.net/cms/files/68147/1540672580/$gku43lesnp","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":62,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":62,"margin":{"top":"20","bottom":"10"},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2mr","align":"center","width":400,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":0,"bottom":"40"},"content":"\u003cp\u003eVocê realiza o pagamento em até 6x no cartão sem juros, ou à vista no boleto, e recebe seu kit paciente completo em casa e inicia a sua mudança de vida.\u003c/p\u003e","className":"rd-text"},"children":[]}]}]},{"type":"row","properties":{"id":"rd-row-k84x72yq","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-k84xjyr4","size":12,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84xkdft","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$7i9kmsvmqag","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":512,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto61","margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]}]},{"type":"row","properties":{"id":"rd-row-k84wtbag","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-k84x9m28","size":12,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84x9vat","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$vus6z9blsc9","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":940,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto71","margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]}]},{"type":"row","properties":{"id":"rd-row-k84xblit","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-k84xbliu","size":12,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"text","properties":{"id":"rd-text-k84xbnmi","align":"center","width":698,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto-148","margin":{"top":10,"bottom":10},"content":"\u003cp\u003e\u003cspan style=\"color: rgb(126, 211, 33); font-family: Ubuntu, sans-serif; font-size: 35px;\"\u003e﻿\u003c/span\u003e\u003cstrong style=\"color: rgb(126, 211, 33); font-family: Ubuntu, sans-serif; font-size: 35px;\"\u003eA MÍDIA NÃO PARA DE FALAR BEM DO 5S.\u003c/strong\u003e\u003c/p\u003e","className":"rd-text"},"children":[]}]}]}]},{"type":"section","properties":{"id":"rd-section-joq3m2ms","border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"className":"rd-section","background":{"url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585069889/$iscd17a0jwi","type":"image","color":"transparent","cover":true,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"children":[{"type":"row","properties":{"id":"rd-row-joq3m2mt","padding":{"top":7,"left":7,"right":7,"bottom":7},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-k84wv18m","size":3,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84wxjyo","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$lc8gu6wgdd","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":250,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":162,"margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]},{"type":"column","properties":{"id":"rd-column-joq3m2mu","size":3,"border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"color","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"image","properties":{"id":"rd-image-k84x087a","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$ydebem1ms6","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":250,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto12","margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]},{"type":"column","properties":{"id":"rd-column-k84wvau5","size":3,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84x0gzi","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$eauddb7jsmj","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":250,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":162,"margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]},{"type":"column","properties":{"id":"rd-column-k84wv5sb","size":3,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84x0qd3","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$ruatzbepb7q","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":250,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":162,"margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]}]}]},{"type":"section","properties":{"id":"rd-section-joq3m2mw","border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"className":"rd-section","background":{"url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1585069889/$ja77063buts","type":"image","color":"transparent","cover":true,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"children":[{"type":"row","properties":{"id":"rd-row-k84wvvwr","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-k84x1ivf","size":3,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84x1xin","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$mg3zgks8b4f","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":250,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":162,"margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]},{"type":"column","properties":{"id":"rd-column-k84wvvws","size":3,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84x2c14","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$ui3sa40e4qe","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":250,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":162,"margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]},{"type":"column","properties":{"id":"rd-column-k84x1rqj","size":3,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84x2rh3","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$1tor1ko5og9h","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":250,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":162,"margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]},{"type":"column","properties":{"id":"rd-column-k84x1o4z","size":3,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84x3s3g","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$0yp1w0vmyf1q","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":250,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":162,"margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]}]}]},{"type":"row","properties":{"id":"rd-row-k84x54ho","padding":{"top":10,"left":10,"right":10,"bottom":10},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-k84x54hp","size":12,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"text","properties":{"id":"rd-text-k84x575i","align":"center","width":791,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto-49","margin":{"top":10,"bottom":10},"content":"\u003cp\u003e\u003cstrong style=\"color: rgb(126, 211, 33); font-size: 35px; font-family: Ubuntu, sans-serif;\"\u003ePRÊMIOS NACIONAIS E INTERNACIONAIS DO 5S.\u003c/strong\u003e\u003c/p\u003e","className":"rd-text"},"children":[]}]}]},{"type":"row","properties":{"id":"rd-row-joq3m2mx","padding":{"top":7,"left":7,"right":7,"bottom":7},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-k84wp2yj","size":3,"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"middle"}},"children":[{"type":"image","properties":{"id":"rd-image-k84wp9hb","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$dvy6oc7v4ts","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":124,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto-141","margin":{"top":10,"bottom":10},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]},{"type":"text","properties":{"id":"rd-text-k84wpq8j","align":"center","width":220,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto0","margin":{"top":10,"bottom":10},"content":"\u003cp\u003e\u003cspan style=\"font-size: 24px; font-family: Ubuntu, sans-serif;\"\u003ePrêmio Mulheres do Amanhã pela Siderúrgica Arcelor Mittal.\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]}]},{"type":"column","properties":{"id":"rd-column-joq3m2my","size":3,"border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"color","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"image","properties":{"id":"rd-image-joq3m2mz","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$zlqx14lgz5g","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":156,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto34","margin":{"top":7,"bottom":7},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2n0","align":"center","width":257,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto0","margin":{"top":0,"bottom":0},"content":"\u003ch3 style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Ubuntu, sans-serif; font-size: 24px; color: rgb(21, 63, 100);\"\u003ePrêmio Latin American Quality Awards 2019\u003c/span\u003e\u003c/h3\u003e","className":"rd-text"},"children":[]}]},{"type":"column","properties":{"id":"rd-column-joq3m2n2","size":3,"border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"color","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"image","properties":{"id":"rd-image-joq3m2n3","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$k2o15ovikl","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":177,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto47","margin":{"top":7,"bottom":7},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2n4","align":"center","width":257,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto0","margin":{"top":0,"bottom":0},"content":"\u003ch3 style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Ubuntu, sans-serif; font-size: 24px; color: rgb(21, 63, 100);\"\u003ePrêmio em Referência Nacional em Saúde no Brasil 2019\u003c/span\u003e\u003c/h3\u003e","className":"rd-text"},"children":[]}]},{"type":"column","properties":{"id":"rd-column-joq3m2n6","size":3,"border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"color","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"image","properties":{"id":"rd-image-joq3m2n7","url":"https://d335luupugsy2.cloudfront.net/cms/files/110896/1584993217/$ljzn5iqki2r","link":{"href":"","title":"","target":"","enabled":false},"align":"center","width":154,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto24","margin":{"top":7,"bottom":7},"className":"rd-image","description":"","aspectRatioLocked":true},"children":[]},{"type":"text","properties":{"id":"rd-text-joq3m2n8","align":"center","width":257,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":"auto0","margin":{"top":0,"bottom":0},"content":"\u003ch3 style=\"text-align: center;\"\u003e\u003cspan style=\"font-family: Ubuntu, sans-serif; font-size: 24px; color: rgb(21, 63, 100);\"\u003eMedalha Marquesa de Santos outorgada à Dra Edivana Poltronieri \u003c/span\u003e\u003c/h3\u003e","className":"rd-text"},"children":[]}]}]}]},{"type":"section","properties":{"id":"rd-section-joq3m2na","border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"className":"rd-section","background":{"url":"","type":"color","color":"#0c1721","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"}},"children":[{"type":"row","properties":{"id":"rd-row-joq3m2nb","padding":{"top":7,"left":7,"right":7,"bottom":7},"className":"rd-row","minHeight":50},"children":[{"type":"column","properties":{"id":"rd-column-joq3m2nc","size":12,"border":{"top":true,"left":false,"color":"#000000","right":false,"style":"none","width":1,"bottom":true,"radius":0},"padding":{"top":0,"left":10,"right":10,"bottom":0},"className":"rd-column","background":{"url":"","type":"transparent","color":"transparent","cover":false,"parallax":null,"position":{"x":0,"y":0},"imageColor":"rgba(74,144,226,0)","imageOrder":"below"},"alignInside":{"vertical":"top"}},"children":[{"type":"text","properties":{"id":"rd-text-joq3m2nd","align":"center","width":400,"border":{"top":true,"left":true,"color":"#000000","right":true,"style":"none","width":1,"bottom":true,"radius":0},"height":-1,"margin":{"top":15,"bottom":15},"content":"\u003cp style=\"text-align: center;\"\u003e\u003cspan style=\"color: rgb(255, 255, 255); font-size: 14px; font-family: Roboto, sans-serif; background-color: rgb(12, 23, 33);\"\u003eCopyright © 2020. Todos os direitos reservados\u003c/span\u003e\u003c/p\u003e","className":"rd-text"},"children":[]},{"type":"html","properties":{"id":"rd-html-k8ap47ob","content":"\u003cscript type=\"text/javascript\" src=\"https://brands-comercio.mktzap.com.br/webchat/rkzaii1mhthk2ae86b13\"\u003e\u003c/script\u003e","className":"rd-html"},"children":[]}]}]}]}]};
+  </script>
+
+  <iframe src="./mark_files/saved_resource.html"></iframe><iframe src="./mark_files/saved_resource(1).html"></iframe><iframe src="./mark_files/saved_resource(2).html"></iframe><link rel="stylesheet" type="text/css" href="./mark_files/container.40a6b605d29a66b083aa6d74c07bb73eae19e31b.css"><iframe src="./mark_files/saved_resource(3).html"></iframe><style type="text/css">.tippy-iOS {
+  cursor: pointer !important;
+  -webkit-tap-highlight-color: transparent;
+}
+.apt-badge-tippy.tippy-popper {
+  pointer-events: none;
+  max-width: calc(100vw - 10px);
+  transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+  transition-property: transform;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  -webkit-line-break: after-white-space;
+}
+.apt-badge-tippy .tippy-tooltip {
+  position: relative;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 1.4;
+  background-color: #333;
+  transition-property: visibility, opacity, transform;
+  outline: 0;
+}
+.apt-badge-tippy .tippy-tooltip[data-animation='fade'][data-state='hidden'] {
+  opacity: 0;
+}
+
+.apt-badge-tippy .tippy-tooltip[data-placement^='top'] > .tippy-arrow {
+  border-width: 8px 8px 0;
+  border-top-color: #333;
+  margin: 0 3px;
+  transform-origin: 50% 0;
+  bottom: -7px;
+}
+.apt-badge-tippy .tippy-tooltip[data-placement^='bottom'] > .tippy-arrow {
+  border-width: 0 8px 8px;
+  border-bottom-color: #333;
+  margin: 0 3px;
+  transform-origin: 50% 7px;
+  top: -7px;
+}
+.apt-badge-tippy .tippy-tooltip[data-placement^='left'] > .tippy-arrow {
+  border-width: 8px 0 8px 8px;
+  border-left-color: #333;
+  margin: 3px 0;
+  transform-origin: 0 50%;
+  right: -7px;
+}
+.apt-badge-tippy .tippy-tooltip[data-placement^='right'] > .tippy-arrow {
+  border-width: 8px 8px 8px 0;
+  border-right-color: #333;
+  margin: 3px 0;
+  transform-origin: 7px 50%;
+  left: -7px;
+}
+.apt-badge-tippy .tippy-tooltip[data-interactive][data-state='visible'] {
+  pointer-events: auto;
+}
+.apt-badge-tippy .tippy-tooltip[data-inertia][data-state='visible'] {
+  transition-timing-function: cubic-bezier(0.54, 1.5, 0.38, 1.11);
+}
+.apt-badge-tippy .tippy-arrow {
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+}
+.apt-badge-tippy .tippy-content {
+  padding: 5px 9px;
+}
+</style><style type="text/css">.apt-badge-tippy.tippy-popper[x-placement^='bottom'] .badge-theme .tippy-arrow {
+  border-bottom-color: currentColor;
+}
+.apt-badge-tippy.tippy-popper[x-placement^='top'] .badge-theme .tippy-arrow {
+  border-top-color: currentColor;
+}
+.apt-badge-tippy.tippy-popper[x-placement^='left'] .badge-theme .tippy-arrow {
+  border-left-color: currentColor;
+}
+.apt-badge-tippy.tippy-popper[x-placement^='right'] .badge-theme .tippy-arrow {
+  border-right-color: currentColor;
+}
+
+.apt-badge {
+  cursor: pointer;
+  border-style: solid;
+  border-radius: 50%;
+  box-sizing: border-box;
+
+  display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox; /* TWEENER - IE 10 */
+  display: -webkit-flex; /* NEW - Chrome */
+  display: flex;
+
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -ms-flex-line-pack: center;
+  -webkit-align-content: center;
+  align-content: center;
+}
+
+.apt-badge img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.apt-badge.apt-badge--hidden {
+  display: none;
+}
+
+.apt-badge-tippy .badge-theme .tippy-content {
+  color: #06f263; 
+  font-size: 13px;
+  text-align: left;
+  font-weight: normal;
+  box-sizing: content-box;
+}
+</style><script async="" src="./mark_files/modules.ab7d31210390a6834c38.js.download" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script type="text/javascript" async="" src="./mark_files/05a0992f-13ce-4e3f-6a5f-7fa757960e41"></script><link rel="stylesheet" type="text/css" href="./mark_files/style.css"></head>
+
+  <body class="body-builder ">
+    <nav class="header-navbar navbar-default">
+  <div class="header-navbar-container">
+    <div class="header-navbar-brand">
+      <a class="brand-rdstation-mkt" href="https://app.rdstation.com.br/home" title="Início">
+        <span class="sr-only">RD Station</span>
+        <svg id="logoRDStationMarketing" class="brand-rdstation-logo brand-rdstation-mkt-logo" width="200px" fill="white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311 40.74">
+  <path class="pathLogo" d="M200.69,21.71c-.13-2.39-.28-5.26-.25-7.4h0c-.59,2-1.31,4.17-2.18,6.55l-3,8.37h-1.69L190.69,21c-.82-2.43-1.51-4.66-2-6.71h0c-.05,2.14-.18,5-.33,7.58l-.46,7.35h-2.11L187,12.13h2.86l2.91,8.25c.71,2.1,1.29,4,1.72,5.74h.08c.43-1.72,1-3.59,1.8-5.74l3-8.25h2.86l1.07,17.11h-2.16Z"></path>
+  <path class="pathLogo" d="M209.5,23.95l-1.75,5.29h-2.37l5.81-17.11h2.66l5.84,17.11h-2.44l-1.8-5.29Zm5.57-1.87-1.68-4.95C213,16,212.75,15,212.49,14h-.05c-.26,1-.54,2.07-.87,3.11l-1.68,5Z"></path>
+  <path class="pathLogo" d="M222.05,12.3a23.87,23.87,0,0,1,4.33-.36c2.41,0,4,.43,5.05,1.4a4.24,4.24,0,0,1,1.37,3.26A4.52,4.52,0,0,1,229.52,21v0c1.37.46,2.18,1.69,2.6,3.48a26.81,26.81,0,0,0,1.37,4.73h-2.37a21.88,21.88,0,0,1-1.18-4.12c-.53-2.38-1.47-3.27-3.55-3.35h-2.16v7.46h-2.18Zm2.18,7.91h2.27c2.37,0,3.87-1.3,3.87-3.26,0-2.21-1.6-3.18-3.95-3.21a9.11,9.11,0,0,0-2.19.2Z"></path><path class="pathLogo" d="M235.74,12.13h2.18v8.4H238c.46-.67.93-1.29,1.37-1.86l5.32-6.54h2.49l-6.11,7.26,6.58,9.85h-2.58l-5.56-8.4-1.6,1.88v6.52h-2.18Z"></path>
+  <path class="pathLogo" d="M258.44,21.15h-6.53v6.22h7.46v1.87h-9.64V12.13h9.33V14h-7.15v5.29h6.53Z"></path>
+  <path class="pathLogo" d="M265.9,14h-5.29V12.13h12.75V14h-5.29V29.23H265.9Z"></path>
+  <path class="pathLogo" d="M277.41,12.13V29.23h-2.18V12.13Z"></path>
+  <path class="pathLogo" d="M281.14,29.23V12.13h2.15L289,20.78a47.76,47.76,0,0,1,3.21,5.56l.05,0c-.21-2.28-.27-4.37-.27-7V12.13h2.18V29.23h-2l-5.68-8.68a53.61,53.61,0,0,1-3.34-5.71l-.08,0c.13,2.16.19,4.21.19,7.06v7.31Z"></path>
+  <path class="pathLogo" d="M311,28.46a16.17,16.17,0,0,1-5.3.94,8.91,8.91,0,0,1-6.45-2.27,8.8,8.8,0,0,1-2.41-6.39c0-5.12,3.56-8.86,9.35-8.86a10.73,10.73,0,0,1,4.3.79l-.54,1.81a9,9,0,0,0-3.82-.74c-4.2,0-6.94,2.6-6.94,6.9s2.64,6.92,6.66,6.92a7.31,7.31,0,0,0,3-.46v-5H305.4V20.21H311Z"></path>
+  <g id="7a7b2626-ee12-48d4-a845-88dd91af2494" data-name="Logo RD Station">
+    <path class="pathLogo" d="M0,5.16a47.65,47.65,0,0,1,7.28-.51c3.59,0,6.1.54,7.82,1.92a6.22,6.22,0,0,1,2.22,5.1,6.47,6.47,0,0,1-4.27,6v0c1.72.69,2.67,2.33,3.29,4.58.77,2.76,1.53,6,2,6.91H12.66a30.61,30.61,0,0,1-1.72-5.71c-.66-3.06-1.72-3.89-4-3.93H5.29v9.64H0ZM5.6,15.55H7.77c2.75,0,4.38-1.38,4.38-3.51S10.63,8.67,8.1,8.64a13.81,13.81,0,0,0-2.5.18Z"></path>
+    <path class="pathLogo" d="M20.53,5.15A49.24,49.24,0,0,1,28,4.64c4.63,0,7.64.83,10,2.61,2.53,1.88,4.13,4.89,4.13,9.19,0,4.67-1.7,7.89-4.05,9.88-2.57,2.14-6.48,3.15-11.26,3.15a47.73,47.73,0,0,1-6.26-.36Zm5.29,19.91a10.14,10.14,0,0,0,1.92.11c5,0,8.25-2.72,8.25-8.54,0-5.07-2.93-7.75-7.67-7.75a11.47,11.47,0,0,0-2.5.22Z"></path>
+    <path class="pathLogo" d="M49.5,25.42A11.06,11.06,0,0,0,55.1,27c3.19,0,5.06-1.69,5.06-4.13,0-2.26-1.29-3.55-4.56-4.81-3.95-1.4-6.39-3.44-6.39-6.85,0-3.77,3.12-6.57,7.82-6.57a11,11,0,0,1,5.35,1.18l-.86,2.55a9.63,9.63,0,0,0-4.59-1.15c-3.3,0-4.56,2-4.56,3.62,0,2.26,1.47,3.37,4.81,4.66,4.09,1.58,6.17,3.55,6.17,7.1,0,3.73-2.76,7-8.47,7A12.49,12.49,0,0,1,48.71,28Z"></path>
+    <path class="pathLogo" d="M69.66,7.8v4h4.66v2.49H69.66v9.45c0,2.17.61,3.4,2.39,3.4a7.08,7.08,0,0,0,1.84-.22L74,29.33a7.77,7.77,0,0,1-2.82.43,4.41,4.41,0,0,1-3.44-1.34c-.9-.94-1.23-2.5-1.23-4.56V14.31h-2.8V11.82h2.8V8.64Z"></path>
+    <path class="pathLogo" d="M96.41,7.8v4h4.67v2.49H96.41v9.45c0,2.17.62,3.4,2.39,3.4a7.08,7.08,0,0,0,1.84-.22l.14,2.39a7.78,7.78,0,0,1-2.82.43,4.41,4.41,0,0,1-3.44-1.34c-.9-.94-1.23-2.5-1.23-4.56V14.31H90.5V11.82h2.8V8.64Z"></path>
+    <path class="pathLogo" d="M87,29.23l-.25-2.18h-.11a6.45,6.45,0,0,1-5.29,2.57,4.93,4.93,0,0,1-5.29-5c0-4.17,3.72-6.46,10.4-6.42v-.36c0-1.43-.39-4-3.93-4A8.63,8.63,0,0,0,78,15.17l-.71-2.07A10.75,10.75,0,0,1,83,11.57c5.29,0,6.58,3.6,6.58,7.07v6.46a24.24,24.24,0,0,0,.29,4.14Zm-.54-9C83,20.21,79,20.82,79,24.23a2.82,2.82,0,0,0,3,3,4.36,4.36,0,0,0,4.24-2.93,3.32,3.32,0,0,0,.18-1Z"></path>
+    <path class="pathLogo" d="M107.36,6.78a2,2,0,0,1-3.95,0,1.94,1.94,0,0,1,2-2,1.89,1.89,0,0,1,2,2m-3.49,5H107V29.23h-3.11Z"></path>
+    <path class="pathLogo" d="M126.52,20.32c0,6.48-4.49,9.3-8.72,9.3-4.74,0-8.4-3.48-8.4-9,0-5.86,3.84-9.3,8.69-9.3,5,0,8.43,3.66,8.43,9m-13.9.18c0,3.84,2.21,6.73,5.32,6.73s5.32-2.86,5.32-6.81c0-3-1.48-6.73-5.25-6.73s-5.39,3.47-5.39,6.8"></path>
+    <path class="pathLogo" d="M128.75,16.53c0-1.8,0-3.27-.14-4.71h2.7l.17,2.8h.22a6.44,6.44,0,0,1,5.79-3.29c2.42,0,6.19,1.45,6.19,7.45V29.23h-3.42V19.13c0-2.82-1-5.18-4-5.18a4.46,4.46,0,0,0-4.2,3.26,4.65,4.65,0,0,0-.21,1.48V29.23h-3.11Z"></path>
+  </g>
+  <rect class="pathLogo" x="165.14" width="1" height="40"></rect>
+</svg>
+
+      </a>
+    </div>
+    <div class="header-navbar-breadcrumb">
+        <a class="header-navbar-link" href="https://app.rdstation.com.br/landing-pages">Landing Pages</a>
+
+        <a id="landing-page-title" data-toggle="modal" href="https://app.rdstation.com.br/landing-pages/1373355/editar?page=2#modal-landing-page-name" class="header-navbar-text navbar-text-item-name">
+    5S EM CASA
+  </a>
+
+    </div>
+    <div class="header-navbar-actions header-navbar-actions-right">
+      
+      
+        <span class="header-navbar-text">5S Estilo de Vida</span>
+
+        <a class="header-navbar-link" href="https://app.rdstation.com.br/landing-pages">Sair do editor</a>
+
+    </div>
+  </div>
+</nav>
+
+    
+
+    <section id="content" class="content-builder  has-subheader">
+      
+
+
+
+
+
+
+<div id="customization-page">
+  <div id="customization-bar">
+    <div class="content-editor-builder-toggle">
+      <button type="button" aria-label="Recolher barra lateral" class="content-editor-builder-toggle-button js-button-toggle-panel go-rewind xicon-arrow4-left"> </button>
+      <span class="sr-only">Recolher barra lateral</span>
+    </div>
+    <div class="cta customization-bar-panel">
+  <div class="form-group">
+    <label style="display: block;"> Texto do botão </label>
+    <input type="text" class="form-control button-text">
+  </div>
+  <div class="field form-group">
+    <label for="bg-color" class="control-label"> Cor de fundo </label>
+    <div class="color_select controls input-group">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color:#FFFFFF"></span>
+      </div>
+      <input data-bgclass="bg-color" data-type-preview="color" class="form-control input-sm hex-preview form-button-background-color" name="color" value="#000" maxlength="7" autocomplete="off">
+    </div>
+  </div>
+  <div class="field form-group">
+    <label for="bg-color" class="control-label"> Cor do texto </label>
+    <div class="color_select controls input-group">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color:#FFFFFF"></span>
+      </div>
+      <input data-bgclass="bg-color" data-type-preview="color" class="form-control input-sm hex-preview form-button-text-color" name="color" value="#000" maxlength="7" autocomplete="off">
+    </div>
+  </div>
+  <div class="form-group button-href">
+    <label style="display: block;"> Link do botão </label>
+    <input type="text" class="form-control button-href">
+  </div>
+</div>
+
+<div class="background customization-bar-panel">
+  <div class="form-group">
+    <label for="bg-color">
+      Cor de fundo
+    </label>
+
+    <div class="input-group color_select">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color: #fff;"></span>
+      </div>
+      <input id="bg-color" name="color" class="form-control input-sm hex-preview" data-bgclass="bg-color" data-type-preview="color" value="#000" maxlength="7">
+    </div>
+  </div>
+
+  <!-- image selector goes here -->
+  <div class="field form-group bg-image-group">
+    <div class="row">
+      <div class="col-xs-9">
+          <div class="form-group dotted-line">
+            <label for="form-background-image" class="text-right">
+              Imagem de fundo
+            </label>
+          </div>
+        </div>
+      <div class="col-xs-3" style="text-align: right; padding-left: 0;">
+        <a href="https://app.rdstation.com.br/landing-pages/1373355/editar?page=2#" class="btn btn-default btn-sm add-image insert-image">
+          Inserir
+        </a>
+      </div>
+    </div>
+    <div class="image_select controls input-group">
+      <input data-bgclass="bg-image" class="form-control input-sm image-url hidden" name="image">
+    </div>
+
+    <div class="js-show-when-background-img">
+      <!-- Thumbnail image and Remove link -->
+      <figure class="thumbnail" style="margin-bottom: 10px;">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
+      </figure>
+      <p class="text-right">
+        <a href="javascript:void(0)" class="text-right delete-image" style="display: inline;">
+          <small>Remover</small>
+        </a>
+      </p>
+      <!-- /Thumbnail image and Remove link -->
+
+      <div class="js-show-when-background-props">
+        <!-- Background position control -->
+        <label for="bg-position">
+          Posição do fundo
+        </label>
+        <select id="bg-position" class="form-control js-change-background-position">
+          <option value="0% 0%">
+            Topo à esquerda
+          </option>right
+          <option value="50% 0%">
+            Topo ao centro
+          </option>
+          <option value="100% 0%">
+            Topo à direita
+          </option>
+          <option value="0% 100%">
+            Base à esquerda
+          </option>
+          <option value="50% 100%">
+            Base ao centro
+          </option>
+          <option value="100% 100%">
+            Base à direita
+          </option>
+          <option value="0% 50%">
+            Centro à esquerda
+          </option>
+          <option value="50% 50%">
+            Totalmente centralizada
+          </option>
+          <option value="100% 50%">
+            Centro à direita
+          </option>
+        </select>
+        <!-- /Background position control -->
+
+        <!-- Stretch background checkbox -->
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" class="js-stretch-background">
+            <small>
+              Esticar o plano de fundo para as bordas da página
+            </small>
+          </label>
+        </div>
+        <!-- /Stretch background checkbox -->
+
+        <!-- Background opacity range and input -->
+        <div class="bg-image-opacity form-group-range">
+          <label for="bg-opacity">
+            Opacidade da imagem de fundo
+          </label>
+          <div class="row range-slider-group">
+            <div class="col-xs-9 ">
+              <input class="bg-opacity-range-input" type="range" min="0" max="100" step="1" value="100">
+            </div>
+            <div class="col-xs-3 input-opacity-group">
+              <input id="bg-opacity" class="form-control input-sm bg-opacity-text-input slider-value" type="text" maxlength="3">
+            </div>
+          </div>
+        </div>
+        <!-- /Background opacity range and input -->
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="conversion customization-bar-panel">
+  <div id="label-color" class="field form-group">
+    <label for="bg-color" class="control-label">Cor do texto dos campos</label>
+    <div class="color_select controls input-group">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color:#FFFFFF"></span>
+      </div>
+      <input data-bgclass="bg-color" data-type-preview="color" class="form-control input-sm hex-preview" name="color" value="#000" maxlength="7">
+    </div>
+  </div>
+  <div id="header-bg-color" class="field form-group">
+    <label for="bg-color" class="control-label">Cor de fundo do cabeçalho do formulário</label>
+    <div class="color_select controls input-group">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color:#FFFFFF"></span>
+      </div>
+      <input data-bgclass="bg-color" data-type-preview="color" class="form-control input-sm hex-preview" name="color" value="#000" maxlength="7">
+    </div>
+  </div>
+  <div id="bg-color" class="field form-group">
+    <label for="bg-color" class="control-label">Cor de fundo do formulário</label>
+    <div class="color_select controls input-group">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color:#FFFFFF"></span>
+      </div>
+      <input data-bgclass="bg-color" data-type-preview="color" class="form-control input-sm hex-preview" name="color" value="#000" maxlength="7">
+    </div>
+  </div>
+  <div id="field-border-color" class="field form-group">
+    <label for="bg-color" class="control-label">Cor da borda das caixas</label>
+    <div class="color_select controls input-group">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color:#FFFFFF"></span>
+      </div>
+      <input data-bgclass="bg-color" data-type-preview="color" class="form-control input-sm hex-preview" name="color" value="#000" maxlength="7">
+    </div>
+  </div>
+  <div id="field-bg-color" class="field form-group">
+    <label for="bg-color" class="control-label">Cor de fundo dos campos</label>
+    <div class="color_select controls input-group">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color:#FFFFFF"></span>
+      </div>
+      <input data-bgclass="bg-color" data-type-preview="color" class="form-control input-sm hex-preview" name="color" value="#000" maxlength="7">
+    </div>
+  </div>
+  <div id="conversion-button-bg-color" class="field form-group">
+    <label for="bg-color" class="control-label">Cor de fundo dos botões</label>
+    <div class="color_select controls input-group">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color:#FFFFFF"></span>
+      </div>
+      <input data-bgclass="bg-color" data-type-preview="color" class="form-control input-sm hex-preview" name="color" value="#000" maxlength="7">
+    </div>
+  </div>
+  <div id="conversion-button-text-color" class="field form-group">
+    <label for="bg-color" class="control-label">Cor do texto dos botões</label>
+    <div class="color_select controls input-group">
+      <div class="input-group-addon">
+        <span class="color-preview" style="background-color:#FFFFFF"></span>
+      </div>
+      <input data-bgclass="bg-color" data-type-preview="color" class="form-control input-sm hex-preview" name="color" value="#000" maxlength="7">
+    </div>
+  </div>
+  <div id="conversion-border-style-and-width" class="row form-group">
+    <div id="conversion-border-style" class="field col-xs-6">
+      <label class="control-label">Estilo da borda</label>
+      <select class="form-control input-sm">
+        <option value="solid">Sólida</option>
+        <option value="dotted">Pontilhada</option>
+        <option value="dashed">Tracejada</option>
+        <option value="none">Nenhuma</option>
+      </select>
+    </div>
+    <div id="conversion-border-width" class=" field col-xs-6">
+      <label class="control-label">Espessura da borda</label>
+      <div class="input-group">
+        <input type="number" name="border-width" min="0" value="0" class="form-control input-sm">
+        <span class="input-group-addon">px</span>
+      </div>
+    </div>
+  </div>
+  <div id="conversion-border-color-and-radius" class="row form-group">
+    <div id="conversion-border-color" class="field col-xs-6">
+      <label class="control-label">Cor da borda</label>
+      <div class="color_select controls input-group">
+        <div class="input-group-addon">
+          <span class="color-preview" style="background-color:#FFFFFF"></span>
+        </div>
+        <input data-type-preview="color" class="form-control input-sm hex-preview" name="color" value="#000" maxlength="7">
+      </div>
+    </div>
+    <div id="conversion-border-radius" class="field col-xs-6">
+      <label class="control-label">Borda arredondada</label>
+      <div class="input-group">
+        <input type="number" name="border-radius" value="0" min="0" class="form-control input-sm">
+        <span class="input-group-addon">px</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="seo customization-bar-panel" style="padding: 0;">
+  <div class="sidebar-container">
+    <div class="sidebar-header">
+      <h3 class="sidebar-title">SEO</h3>
+    </div>
+
+    <div class="sidebar-content">
+      <div class="form-group">
+        <label for="lp-keyword">Palavra chave</label>
+        <div class="input-group">
+          <input id="lp-keyword" type="text" class="form-control" value="">
+          <span class="input-group-btn">
+            <button id="lp-keyword-button" class="btn btn-default" type="button">Gerar relatório</button>
+          </span>
+        </div>
+        <p class="help-block small">Informe a Palavra-chave para a qual você gostaria de otimizar sua Landing Page.</p>
+
+        <hr class="invisible spacer-md">
+
+        <div class="seo-loading text-center hide">
+          <img src="./mark_files/spin-b3f9ceccd7d54cd22b9dd36039611cc5e01e132f53068ecde7adda7188d30716.gif">
+        </div>
+
+        <div id="lp-seo-report-points"></div>
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <iframe id="bricks-editor" src="./mark_files/editor.html" class="preview-window" style="position: fixed; top: 110px; left: 0; height: calc(100% - 109px); overflow: hidden;" width="100%" frameborder="0"></iframe>
+</div>
+
+
+<div id="form-fields-manager-modal-container"></div>
+
+<!-- Modal inserir imagem -->
+<div class="modal fade" id="insert-image" tabindex="-1" role="dialog" aria-labelledby="change_accountLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h4 class="modal-title" id="upload-modal-title">Inserir uma imagem</h4>
+      </div>
+      <div class="modal-body">
+        <p id="upload-modal-body" class="help-block">Como você deseja inserir uma imagem?</p>
+        <div>
+          <!-- Nav tabs -->
+          <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active">
+              <a href="https://app.rdstation.com.br/landing-pages/1373355/editar?page=2#home" aria-controls="home" role="tab" data-toggle="tab" id="upload-by-file-tab">Upload de imagem</a>
+            </li>
+            <li role="presentation">
+              <a href="https://app.rdstation.com.br/landing-pages/1373355/editar?page=2#profile" aria-controls="profile" role="tab" data-toggle="tab" id="upload-by-url-tab">Inserir imagem da Web</a>
+            </li>
+          </ul>
+          <!-- Tab panes -->
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="home">
+  <div class="drop-file text-center">
+    <div id="file_upload">
+      <form id="s3-uploader" data-remote="true" data-max-file-size="20971520" data-callback-method="POST" data-callback-param="file" enctype="multipart/form-data" action="https://rdstation-static.s3.amazonaws.com/" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="key" id="key" value="cms/files/110896/1586114583/${unique_id}"><input type="hidden" name="acl" id="acl" value="public-read"><input type="hidden" name="AWSAccessKeyId" id="AWSAccessKeyId" value="AKIAUNW3NJ7WDQTONLQY"><input type="hidden" name="policy" id="policy" value="eyJleHBpcmF0aW9uIjoiMjAyMC0wNC0wNlQwNToyMzowM1oiLCJjb25kaXRpb25zIjpbWyJzdGFydHMtd2l0aCIsIiR1dGY4IiwiIl0sWyJzdGFydHMtd2l0aCIsIiRrZXkiLCJjbXMvIl0sWyJzdGFydHMtd2l0aCIsIiR4LXJlcXVlc3RlZC13aXRoIiwiIl0sWyJjb250ZW50LWxlbmd0aC1yYW5nZSIsMCw1MjQyODgwMDBdLFsic3RhcnRzLXdpdGgiLCIkY29udGVudC10eXBlIiwiIl0seyJidWNrZXQiOiJyZHN0YXRpb24tc3RhdGljIn0seyJhY2wiOiJwdWJsaWMtcmVhZCJ9LHsic3VjY2Vzc19hY3Rpb25fc3RhdHVzIjoiMjAxIn1dfQ=="><input type="hidden" name="signature" id="signature" value="5i5+ujZf/YDAJ7DXo6YuSxPjlSQ="><input type="hidden" name="success_action_status" id="success_action_status" value="201"><input type="hidden" name="X-Requested-With" id="X-Requested-With" value="xhr">
+      <input type="file" name="file" id="file">
+      <div id="preview-box">
+        <img id="launch" class="img-responsive center-block" src="./mark_files/cms_files_8935_1438706911icon-launch.png">
+        <img id="uploaded-image-preview">
+      </div>
+      <hr class="spacer-sm invisible">
+
+      <p>Arraste um arquivo e o solte aqui!</p>
+      <button type="button" id="js-select-file" class="btn btn-primary btn-sm trigger-upload">Ou clique para selecionar um arquivo.</button>
+</form>
+      <script id="template-upload" type="text/x-tmpl">
+        <div id="file-{%=o.unique_id%}" class="upload">
+          <div class="progress">
+            <div class="progress-bar bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;"></div>
+          </div>
+        </div>
+      </script>
+
+    </div>
+  </div>
+  <div id="upload-modal-error"></div>
+  <div id="js-progress-bar"></div>
+</div>
+
+            <div role="tabpanel" class="tab-pane" id="profile">
+  <div class="form-group field">
+    <label for="">Endereço da imagem (URL)</label>
+    <input class="form-control js-image-url" type="text">
+  </div>
+  <div class="form-group field">
+    <button class="btn btn-primary js-insert-image-by-url">Inserir imagem</button>
+  </div>
+</div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="upload-modal-close" type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<form class="edit_landing_page" id="landing_page-content-form" enctype="multipart/form-data" action="https://app.rdstation.com.br/landing-pages/1373355" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="_method" value="patch">
+  <input type="hidden" name="page" value="2">
+  <input type="hidden" name="do_not_redirect" value="true">
+  <!-- Modal to define landing page name -->
+<div class="modal fade" id="modal-landing-page-name" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="myModalLabel"> Alterar o nome </h4>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <img class="img-responsive center-block" src="./mark_files/landing_page-52b2c36bdd47f5c7dc5bc396ffc79932378c589db72a12af006aed50033f7ea5.png">
+        </div>
+        <div class="form-group">
+          <label for="landing_page_id">
+            Nome da Landing Page <a class="popover-info" data-container="body" data-toggle="popover" data-html="true" data-placement="right" data-content="O nome será utilizado como sugestão de URL." data-original-title="" title=""></a>
+</label>          <input id="landing_page_title" class="form-control" autocomplete="off" required="required" type="text" value="5S EM CASA" name="landing_page[title]">
+           
+        </div>
+      </div>
+      <div class="modal-footer next_steps-container">
+        <button name="button" type="button" class="btn btn-link cancel-button" data-dismiss="modal">Cancelar</button><input type="submit" name="commit" value="Salvar" id="save-btn" class="btn btn-primary new-flow" data-confirm-text="Ao trocar o modelo da página você poderá perder alterações de conteúdo e aparência já feitas. Deseja mesmo continuar?" data-disable-with="Aguarde" data-loading-text="Aguarde">
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /modal -->
+
+</form>
+<nav class="subheader">
+  <div class="subheader-container">
+    <div class="actions-wrapper actions-wrapper-sm">
+      <a class="btn btn-default btn-sm subheader-btn go-rewind" href="https://app.rdstation.com.br/landing-pages">Voltar</a>
+    </div>
+    <div class="steps-wrapper steps-wrapper-sm">
+      <ul class="steps">
+        <li class="">
+            <span class="active">Modelo</span>
+        </li>
+
+        <li class="active">
+          <span>
+                <a class="nav-link" href="https://app.rdstation.com.br/landing-pages/1373355/editar?page=2">Editor</a>
+          </span>
+        </li>
+
+
+
+        <li class="">
+          <span>
+              <a class="nav-link" href="https://app.rdstation.com.br/landing-pages/1373355/editar?page=5">Configurações</a>
+          </span>
+        </li>
+
+        <li class="">
+          <span>
+              <a class="nav-link" href="https://app.rdstation.com.br/landing-pages/1373355/editar?page=6">Publicação</a>
+          </span>
+        </li>
+      </ul>
+    </div>
+    <div class="actions-wrapper actions-wrapper-right actions-wrapper-sm">
+      
+  
+  <input type="hidden" id="experiment_id" value="">
+
+  <span id="ab_test_header">
+    <button class="btn btn-sm btn-default js-create-ab-test">
+      Criar Teste A/B
+
+      <span class="label label-beta text-uppercase">
+        Beta
+      </span>
+    </button>
+  </span>
+
+  <script type="text/template" id="tpl-ab-toggle">
+    <div class="btn-group js-ab-toggle">
+      <button class="btn btn-sm btn-success var-a var-active dirtyform-enabled" id="ab-version-a">A</button>
+      <button class="btn btn-sm btn-default var-b dirtyform-enabled" id="ab-version-b">B</button>
+    </div>
+  </script>
+
+  <script type="text/template" id="tpl-ab-create">
+    <button class="btn btn-sm btn-default js-create-ab-test">
+      Criar Teste A/B
+
+      <span class="label label-beta text-uppercase">
+        Beta
+      </span>
+    </button>
+  </script>
+
+  <button type="button" class="btn btn-link btn-sm subheader-btn" id="advanced-editing">
+    Edição avançada
+  </button>
+  <button type="button" class="btn btn-link btn-sm subheader-btn" id="btn-preview">
+    Pré-visualizar
+  </button>
+  <button id="save-btn" class="btn btn-link btn-sm subheader-btn js-save-btn" data-disable-with="Aguarde" data-loading-text="Aguarde" data-enabled-with="Salvar">
+    Salvar</button>
+  <button id="save-and-next-btn" class="btn btn-sm btn-primary subheader-btn js-save-and-next-btn" data-disable-with="Aguarde" data-enabled-with="Salvar">
+    Salvar e avançar</button>
+
+    </div>
+  </div>
+</nav>
+
+<div id="landing_page_preview"><div class="templates-preview-modal hide desktop"><nav class="header-navbar"><div class="header-navbar-container"><div class="header-navbar-item"><span class="brand-rdstation"><span class="sr-only">RDStation</span><span class="sr-only">RDStation</span><svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="logoRDStationMarketing" x="0px" y="0px" viewBox="0 0 200 26" class="brand-rdstation-logo"><title>_rdsm_3</title><path class="st0" d="M130.8,13.7c-0.1-1.5-0.2-3.3-0.2-4.6l0,0c-0.4,1.3-0.8,2.6-1.4,4.1l-1.9,5.2h-1.1l-1.8-5.2  c-0.5-1.5-1-2.9-1.3-4.2l0,0c0,1.3-0.1,3.1-0.2,4.7l-0.3,4.6h-1.3l0.8-10.7h1.8l1.9,5.2c0.4,1.3,0.8,2.5,1.1,3.6h0.1  c0.3-1.2,0.7-2.4,1.1-3.6l1.9-5.2h1.8l0.7,10.7h-1.4L130.8,13.7z"></path><path class="st0" d="M136.3,15.1l-1.1,3.3h-1.5l3.6-10.7h1.7l3.7,10.7h-1.5l-1.1-3.3H136.3z M139.8,13.9l-1.1-3.1  c-0.2-0.7-0.4-1.3-0.6-2l0,0c-0.2,0.6-0.3,1.3-0.5,2l-1.1,3.1L139.8,13.9z"></path><path class="st0" d="M144.2,7.8c0.9-0.2,1.8-0.2,2.7-0.2c1.1-0.1,2.3,0.2,3.2,0.9c0.6,0.5,0.9,1.3,0.9,2c0,1.3-0.8,2.4-2.1,2.8l0,0  c0.9,0.4,1.5,1.2,1.6,2.2c0.2,1,0.5,2,0.9,2.9h-1.5c-0.3-0.8-0.6-1.7-0.7-2.6c-0.3-1.5-0.9-2.1-2.2-2.1h-1.4v4.7h-1.4V7.8z   M145.6,12.7h1.4c1.5,0,2.4-0.8,2.4-2c0-1.4-1-2-2.5-2c-0.5,0-0.9,0-1.4,0.1L145.6,12.7z"></path><path class="st0" d="M152.8,7.7h1.4v5.3h0c0.3-0.4,0.6-0.8,0.9-1.2l3.3-4.1h1.6l-3.9,4.6l4.1,6.2h-1.6l-3.5-5.3l-1,1.2v4.1h-1.4  L152.8,7.7z"></path><path class="st0" d="M167,13.3h-4.1v3.9h4.7v1.2h-6V7.7h5.9v1.2h-4.5v3.3h4.1V13.3z"></path><path class="st0" d="M171.7,8.8h-3.3V7.7h8v1.2h-3.3v9.6h-1.4V8.8z"></path><path class="st0" d="M178.9,7.7v10.7h-1.4V7.7H178.9z"></path><path class="st0" d="M181.3,18.4V7.7h1.3l3.6,5.4c0.7,1.1,1.4,2.3,2,3.5l0,0c-0.1-1.4-0.2-2.7-0.2-4.4V7.7h1.4v10.7h-1.3l-3.6-5.4  c-0.8-1.2-1.5-2.4-2.1-3.6h-0.1c0.1,1.4,0.1,2.6,0.1,4.4v4.6L181.3,18.4z"></path><path class="st0" d="M200,17.9c-1.1,0.4-2.2,0.6-3.3,0.6c-1.5,0.1-2.9-0.4-4-1.4c-1-1.1-1.6-2.5-1.5-4c0-3.2,2.2-5.6,5.9-5.6  c0.9,0,1.8,0.1,2.7,0.5l-0.3,1.1c-0.8-0.3-1.6-0.5-2.4-0.5c-2.2-0.2-4.2,1.5-4.3,3.7c0,0.2,0,0.4,0,0.6c0,2.7,1.6,4.3,4.2,4.3  c0.6,0,1.3-0.1,1.9-0.3v-3.1h-2.1v-1.2h3.5V17.9z"></path><g id="_7a7b2626-ee12-48d4-a845-88dd91af2494"><path class="st0" d="M0,3.8c1.5-0.2,2.9-0.3,4.4-0.3c2.2,0,3.7,0.3,4.7,1.1c0.9,0.7,1.4,1.9,1.3,3c0,1.6-1,3-2.6,3.6l0,0   c1.1,0.5,1.8,1.6,2,2.7c0.5,1.6,0.9,3.6,1.2,4.1H7.6c-0.5-1.1-0.8-2.2-1.1-3.4c-0.4-1.9-1-2.3-2.4-2.3h-1v5.7H0V3.8z M3.4,10h1.3   c1.7,0,2.6-0.8,2.6-2.1s-0.9-2-2.4-2c-0.5,0-1,0-1.5,0.1V10z"></path><path class="st0" d="M12.4,3.8c1.5-0.2,3-0.3,4.5-0.3c2.8,0,4.6,0.5,6,1.6c1.7,1.3,2.6,3.4,2.5,5.5c0.1,2.2-0.8,4.4-2.4,5.9   c-1.5,1.3-3.9,1.9-6.8,1.9c-1.3,0-2.5-0.1-3.8-0.2L12.4,3.8z M15.6,15.7c0.4,0.1,0.8,0.1,1.2,0.1c3,0,5-1.6,5-5.1   c0-3-1.8-4.6-4.6-4.6c-0.5,0-1,0-1.5,0.1L15.6,15.7z"></path><path class="st0" d="M29.8,15.9c1,0.6,2.2,0.9,3.4,0.9c1.9,0,3.1-1,3.1-2.5s-0.8-2.1-2.7-2.9c-2.4-0.8-3.9-2-3.9-4.1   c0-2.3,1.9-3.9,4.7-3.9c1.1,0,2.2,0.2,3.2,0.7l-0.5,1.5C36.2,5.3,35.2,5,34.2,5c-2,0-2.7,1.2-2.7,2.2c0,1.3,0.9,2,2.9,2.8   c2.5,0.9,3.8,2.1,3.8,4.2s-1.6,4.2-5.1,4.2c-1.3,0-2.6-0.3-3.8-0.9L29.8,15.9z"></path><path class="st0" d="M42,5.4v2.4h2.8v1.5H42v5.6c0,1.3,0.4,2,1.4,2c0.4,0,0.8,0,1.1-0.1l0.1,1.4c-0.5,0.2-1.1,0.3-1.7,0.3   c-0.8,0-1.5-0.2-2.1-0.8c-0.6-0.8-0.8-1.8-0.7-2.7V9.3h-1.7V7.8h1.7V5.9L42,5.4z"></path><path class="st0" d="M58.1,5.4v2.4h2.8v1.5h-2.8v5.6c0,1.3,0.4,2,1.4,2c0.4,0,0.7,0,1.1-0.1l0.1,1.4c-0.5,0.2-1.1,0.3-1.7,0.3   c-0.8,0-1.5-0.2-2.1-0.8c-0.6-0.8-0.8-1.8-0.7-2.7V9.3h-1.7V7.8h1.7V5.9L58.1,5.4z"></path><path class="st0" d="M52.5,18.2l-0.2-1.3h-0.1c-0.8,1-1.9,1.6-3.2,1.5c-1.6,0.1-3.1-1.1-3.2-2.7c0-0.1,0-0.2,0-0.3   c0-2.5,2.2-3.8,6.3-3.8v-0.2c0.2-1.2-0.7-2.2-1.9-2.4c-0.2,0-0.3,0-0.5,0c-1,0-1.9,0.3-2.7,0.8l-0.4-1.2c1-0.6,2.2-0.9,3.5-0.9   c3.2,0,4,2.2,4,4.2v3.8c0,0.8,0,1.7,0.2,2.5L52.5,18.2z M52.2,12.8c-2.1,0-4.5,0.4-4.5,2.4c-0.1,0.9,0.6,1.7,1.6,1.8c0,0,0,0,0,0   h0.2c1.1,0,2.2-0.7,2.6-1.7c0.1-0.2,0.1-0.4,0.1-0.6L52.2,12.8z"></path><path class="st0" d="M64.7,4.8c-0.1,0.7-0.7,1.1-1.4,1c-0.5-0.1-0.9-0.5-1-1c0-0.6,0.5-1.2,1.1-1.2h0.1c0.6,0,1.2,0.4,1.2,1.1   c0,0,0,0,0,0C64.7,4.7,64.7,4.7,64.7,4.8 M62.6,7.8h1.9v10.4h-1.9V7.8z"></path><path class="st0" d="M76.3,12.9c0,3.9-2.7,5.6-5.2,5.6c-2.9,0-5.1-2.1-5.1-5.4c0-3.5,2.3-5.6,5.2-5.6S76.3,9.7,76.3,12.9 M67.9,13   c0,2.3,1.3,4,3.2,4s3.2-1.7,3.2-4.1c0-1.8-0.9-4-3.2-4S67.9,11,67.9,13"></path><path class="st0" d="M77.6,10.6c0-1.1,0-1.9-0.1-2.8h1.6l0.1,1.7h0.1c0.7-1.2,2.1-2,3.5-2c1.5,0,3.8,0.9,3.8,4.4v6.2h-2.1v-6   c0-1.7-0.6-3.1-2.4-3.1c-1.2,0-2.2,0.8-2.5,1.9c-0.1,0.3-0.1,0.6-0.1,0.9v6.3h-1.9L77.6,10.6z"></path></g><rect x="104" class="st0" width="1" height="26"></rect></svg></span></div><div class="header-navbar-item"><p class="header-navbar-text">Landing Pages</p></div><div class="header-navbar-item"><p class="header-navbar-text">Pré-visualizando: <strong><span class="preview-title">5S EM CASA</span></strong></p></div><div class="header-navbar-item"><div class="btn-group" role="group"><button type="button" class="btn btn-default btn-sm btn-mode active">Desktop</button><button type="button" class="btn btn-default btn-sm btn-mode ">Mobile</button></div></div><div class="header-navbar-item right"><button type="button" class="btn btn-sm header-navbar-link close-preview">Fechar pré-visualização</button></div></div></nav><section class="content content-builder template-fullsize"><svg width="42" height="42" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#364a65" class="preview-loading"><g fill="none" fill-rule="evenodd"><g transform="translate(1 1)" stroke-width="2"><circle stroke-opacity=".5" cx="18" cy="18" r="18"></circle><path d="M36 18c0-9.94-8.06-18-18-18" transform="rotate(40.4104 18 18)"><animatetransform attributeName="transform" type="rotate" from="0 18 18" to="360 18 18" dur="1s" repeatCount="indefinite"></animatetransform></path></g></g></svg></section></div></div>
+<div id="landing_page_dirty_modal"></div>
+
+
+
+
+      <div class="modal fade" id="access-denied-modal" tabindex="-1" role="dialog" aria-labelledby="access-denied-modal-label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header" id="access-denied">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="access-denied-modal-label">Funcionalidade indisponível</h4>
+      </div>
+      <div class="modal-body">
+        <p>
+          </p><figure class="text-center">
+            <img width="100" height="100" src="./mark_files/feature_unavailable_modal-48aa9632b0332dd124bd8bdbcb0e4cac92e2ca71818f8f0a1c2fced3d3e9ad9c.png">
+          </figure>
+        <p></p>
+        <p>Esta funcionalidade não está disponível para o seu perfil de usuário.</p>
+        <p>O perfil <strong>Gestor</strong> tem acesso total ao produto com exceção de gestão de assinatura e cadastro de Donos.</p>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary" data-dismiss="modal" href="javascript:void(0)">Voltar para a página anterior</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </section>
+
+
+      <script type="text/javascript">
+  window.addEventListener('load', () => {
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+    analytics.load("NcbG1loKSnW0hr2qMbHFIQbYRDtNECRH");
+    }}();
+  });
+</script>
+
+
+<script type="text/javascript">
+  window.addEventListener('load', function() {
+    const hideIntercomLauncher = window.location.pathname.indexOf('chat_buttons') > -1 || window.location.pathname.indexOf('paywall') > -1
+    analytics.identify('282146',
+      {
+        email: 'dev3@5sgrupo.com.br',
+        account_id: '110896'
+      },
+      {
+        Intercom: { hideDefaultLauncher: hideIntercomLauncher }
+      });
+
+    analytics.group( '110896', {
+      name: '5S Estilo de Vida',
+      subscription_status: 'active',
+      industry: 'health-and-beauty',
+      account_id: '110896',
+      subscription_plan_slug: 'Pro',
+      language: 'pt-BR',
+      workflow_limit_xp: 'false'
+    });
+
+    q = [];
+    q.forEach(function(e) {
+    var ev = e[0];
+    var params = e[1];
+    params.account_id = '110896';
+    analytics.track(ev, params);
+    })
+    analytics.page({
+      account_id: '110896'
+    });
+  });
+</script>
+
+        <script src="./mark_files/30304.js.download"></script>
+<script>
+  // NOTE: These values should be specific to the current user.
+  Appcues.identify("282146", { // Unique identifier for current user
+    name: "Dev",   // Current user's name
+    email: "dev3@5sgrupo.com.br", // Current user's email
+    created_at: "2019-12-02 15:12:37 -0300",    // Unix timestamp of user signup date
+    plan: "Pro",
+    language: "pt-BR",
+    subscription_status: "active",
+    account_created_at: "2019-09-11 16:30:57 -0300",
+    account_id: "110896"
+  });
+</script>
+
+
+    <script type="text/javascript">
+  ACCOUNT_LOCALE = "pt-BR";
+  LOCALE_MAP = JSON.parse('{"pt-BR":"pt_BR","en":"en","es":"es","en-US":"en","es-ES":"es"}');
+  LOCALE_INFO = JSON.parse('[{"locale":"pt-BR","name":"Português"},{"locale":"en","name":"English"},{"locale":"es","name":"Español"}]');
+</script>
+<script src="./mark_files/i18n-4a8f8929e82ff8bc764975b10d9b28052398b358becbc77ec0d51711b0943b6b.js.download" cache="true"></script>
+<script src="./mark_files/locale-5b7aa10c9c9d4ba632a39d8bf86c3b1cc94536154ce8289d23806821e3c87c39.js.download" cache="true"></script>
+<script src="./mark_files/frontend-global-f2c8747fe79d2a8ec4faf202223eda9cb04088bb6e8cf1418e2b7e2548e10fed.js.download" cache="true"></script>
+<script src="./mark_files/frontend-pt-BR-b47763d3d8978fe45f2fa01b961373ee76edf01ddb4ac4339ae06e892a1f7fa4.js.download" cache="true"></script>
+
+    <!-- order matters -->
+
+
+<script src="./mark_files/application-4c1ec716120cf50040931c9ade047e4bc2e2e0e950ebbfd51301428edc91b2f8.js.download"></script>
+
+  <script src="./mark_files/hotjar-908c0141fce94c6a7b80.js.download"></script>
+<script src="./mark_files/hotjar-e2391e4476d6aafcd166.chunk.js.download"></script>
+  <script type="text/javascript">
+    window.addEventListener('load', function onLoad() {
+      var hotjarInstance = new window.RdHotjar();
+    });
+  </script>
+
+  <script src="./mark_files/file_upload_handler-0ff50be4fe3e6100fcc0eb8020ceb5c1510ecbd5a1954627b4fbd53699dda5af.js.download"></script>
+  <script src="./mark_files/upload_handler-258372306c49cd0b62308600c2db515196bcd43243d8e6be4000778e8eef6d88.js.download"></script>
+  <script src="./mark_files/index-2916aa3852c05528fc26.js.download"></script>
+<script src="./mark_files/0-a7a902d97fc57cdda7d9.chunk.js.download"></script>
+<script src="./mark_files/1-152dadb728d7640f8669.chunk.js.download"></script>
+<script src="./mark_files/index-763720368f049160cd42.chunk.js.download"></script>
+<script src="./mark_files/index-8e280ad73656534eff7b.js.download"></script>
+<script src="./mark_files/index-7b9bc39e216165557dcf.chunk.js.download"></script>
+  <script src="./mark_files/experiment_service-c919abeed0b1544fe8b92cb4902787ad42b61829d0b3526a1caf3f6684efee3a.js.download"></script>
+
+  <script type="text/javascript">
+    $(document).ready(function () {
+      var landingPageID = '1373355';
+      var landingPageTitle = '5S EM CASA';
+      var landingPageContentID = '1176599';
+
+      window.landingPageID = landingPageID;
+      window.isCdpEfmRolloutReleased = false;
+
+      var config = {
+        landingPageID: landingPageID,
+        landingPageTitle: landingPageTitle,
+        landingPageContentID: landingPageContentID,
+        hasAccessToExperimenting: true,
+      };
+
+      Editor.init(window.ExperimentService, config);
+    });
+  </script>
+
+
+  <!-- Hotjar Script -->
+  <script type="text/javascript">
+    if (window.RdHotjar) {
+      window.addEventListener('load', function onLoad() {
+        var hotjarInstance = new window.RdHotjar();
+        hotjarInstance.sendHotjarTrigger('bricks')
+      });
+    }
+  </script>
+
+  <script type="text/x-jquery-tmpl" id="upload-form-url">/cms/arquivos/novo</script>
+  <script type="text/javascript">
+  !function(){var o;o={offset:{from:"bottom",amount:"115"}},$.bootstrapGrowl.default_options=$.extend({},$.bootstrapGrowl.default_options,o)}.call(this);
+</script>
+
+  <div class="modal fade" id="dirty_stopper_dialog" tabindex="-1" role="dialog" aria-labelledby="dirty_stopper_dialogLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="alert alert-danger">
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+      <h4><strong>Atenção:</strong> alterações não salvas!</h4>
+      <p>Você modificou os dados sem salvar e as alterações serão perdidas.</p>
+      <p>Você tem certeza que quer continuar?</p>
+      <p>
+        <a class="btn btn-danger" href="https://app.rdstation.com.br/landing-pages/1373355/+href+">Sim, desejo sair sem salvar as alterações</a> 
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+<div class="hide">
+
+</div>
+
+
+    <div id="flash">
+      
+    </div>
+  
+
+<div class="modal fade" id="cms-upload-dialog" tabindex="-1" role="dialog" aria-labelledby="cms-upload-dialogLabel" aria-hidden="true"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button><h4 class="modal-title" id="cms-upload-dialogLabel">Upload de arquivo</h4></div><div class="modal-body"><div class="form-container"></div></div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button></div></div></div></div><div class="offline-ui offline-ui-up"><div class="offline-ui-content"></div><a href="https://app.rdstation.com.br/landing-pages/1373355/editar?page=2" class="offline-ui-retry"></a></div><div></div><div></div><script async="" src="./mark_files/hotjar-863034.js.download"></script><script async="" src="./mark_files/hotjar-863034.js.download"></script><div class="apt-guide-overlay-top"></div><div class="apt-guide-overlay-bottom"></div><div class="apt-guide-overlay-left"></div><div class="apt-guide-overlay-right"></div><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="./mark_files/box-469cf41adb11dc78be68c1ae7f9457a4.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe id="intercom-frame" style="position: absolute !important; opacity: 0 !important; width: 1px !important; height: 1px !important; top: 0 !important; left: 0 !important; border: none !important; display: block !important; z-index: -1 !important;" aria-hidden="true" tabindex="-1" title="Intercom" src="./mark_files/saved_resource(4).html"></iframe><div id="intercom-container" class="intercom-namespace"><style>html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active > body,html.intercom-modal-open,#intercom-container-body{overflow:hidden !important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active > body{position:static !important;}html.intercom-mobile-messenger-active > body{height:0 !important;margin:0 !important;}iframe#intercom-frame{position:absolute !important;opacity:0 !important;width:1px !important;height:1px !important;top:0 !important;left:0 !important;border:none !important;display:block !important;z-index:-1 !important;}</style><div class="intercom-app" aria-live="polite"><iframe allowfullscreen="" class="intercom-launcher-frame intercom-75blid e1ur5zlj0" name="intercom-launcher-frame" title="Intercom live chat" data-intercom-frame="true" src="./mark_files/saved_resource(5).html"></iframe><div id="intercom-modal-container"></div></div></div><div id="intercom-css-container"><style data-emotion="intercom-global"></style><style data-emotion="intercom"></style></div></body></html>
