@@ -145,6 +145,7 @@ $("#formsPagamentos").on("submit", function (event) {
       }
     });    
   }
+  /*
   $.ajax({
     dataType: 'json',
     method: "POST",
@@ -175,7 +176,7 @@ $("#formsPagamentos").on("submit", function (event) {
       return false;
     }
   });
-
+*/
 })
 
 function tipoPagamento(paymentMethod) {
