@@ -21,11 +21,12 @@ $("#formsPagamentos").on("submit", function (event) {
   }
 
   if (paymentMethod == 'creditCard') {
+    
     $.ajax({
       method: "POST",
       url: "https://api.pagar.me/1/transactions",
       data: {
-        "api_key": "ak_test_lfHgZ0KYI0PViS3lxUp260hxPsaR0b",
+        "api_key": "ak_test_Wx0bpUdLNijiW3xKxzijTb1O0o70v8",
         "payment_method": "credit_card",
         "async": false,
         "amount": 5000,
@@ -48,6 +49,18 @@ $("#formsPagamentos").on("submit", function (event) {
           ],
           "phone_numbers": [telefone],
           "birthday": formatData(dataNasc)
+        },
+        "billing": {
+          "name": $('#creditCardHolderName').val(),       
+          "address": {
+            "country": "br",
+            "state": $('#billingAddressState').val(),
+            "city": $('#billingAddressCity').val(),
+            "neighborhood": $('#billingAddressDistrict').val(),
+            "street": $('#billingAddressStreet').val(),
+            "street_number": $('#billingAddressNumber').val(),
+            "zipcode": $('#shippingAddressPostalCode').val()
+          }   
         },
 
         "items": [
@@ -105,7 +118,7 @@ $("#formsPagamentos").on("submit", function (event) {
       method: "POST",
       url: "https://api.pagar.me/1/transactions",
       data: {
-        "api_key": "ak_test_lfHgZ0KYI0PViS3lxUp260hxPsaR0b",
+        "api_key": "ak_test_Wx0bpUdLNijiW3xKxzijTb1O0o70v8",
         "amount": 5000,
         "payment_method": "boleto",
         "customer": {
@@ -143,6 +156,7 @@ $("#formsPagamentos").on("submit", function (event) {
           */
         ]
       }
+     
     });    
   }
   /*
