@@ -1,5 +1,3 @@
-<?php include 'configuracao.php'; ?>
-
 <?php include 'includes/cabecalho.php'; ?>
 
 <?php include 'includes/avalia.php'; ?>

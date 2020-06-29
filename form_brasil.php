@@ -21,7 +21,11 @@
 
     <div class="separador col-md-12"></div>         
             
-    <div class="separador col-md-12"></div>
+    <div class="row"> 
+        <div class="col-md-12 col-sm-12 col-12">
+            <a class="btn-compra-alternar" href="https://online.decidiemagreceroficial.com.br/consulta/internacional/?idclinica=<?php echo $idClinica ?>#formsPagamento">Moro fora do Brasil. Quero usar cartão Estrangeiro.</a> 
+        </div>
+    </div>        
 
     <div class="row"> 
 
