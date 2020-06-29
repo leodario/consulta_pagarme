@@ -1,5 +1,15 @@
  
+<div class="container-fluid">
 
+    <div class="col-12">
+        <img src="img/imagem-de-topo.png" width="100%" />
+    </div>
+
+    <div class="col-12">
+        <img src="img/segunda-parte.png" width="100%" />
+    </div>
+
+</div>
 
 
 

@@ -7,6 +7,10 @@ function pagamento() {
 
 $("#formsPagamentos").on("submit", function (event) {
   event.preventDefault();
+  
+  var paymentMethod = document.querySelector('input[name="paymentMethod"]:checked').value;
+  $("#aguarde").css('display','block');  
+  console.log(paymentMethod);
 
   let dataNasc = $('#creditCardHolderBirthDate').val();
   let telefone = $('#senderAreaCodeInter').val() + $('#senderAreaCode').val() + $('#senderPhone').val();
