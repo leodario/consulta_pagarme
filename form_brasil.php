@@ -36,7 +36,7 @@
 
         <div class="col-md-10 col-12 col-sm-12 separador">
             <label>Nome Completo</label>                            
-            <input type="text" name="senderName" id="senderName" minlength="4" class="form-control" required>                       
+            <input type="text" name="senderName" id="senderName" minlength="4" value="João das Neves" class="form-control" required>                       
         </div>    
     </div>
 
@@ -46,11 +46,11 @@
 
         <div class="col-md-6 col-12 col-sm-12 separador">
             <label>CPF: Sem traço ou ponto</label>                            
-            <input type="text" name="senderCPF" id="cpf" minlength="11" class="form-control" required>                       
+            <input type="text" name="senderCPF" id="cpf" minlength="11" value="30621143049" class="form-control" required>                       
         </div>
         <div class="col-md-6 col-12 col-sm-12 separador">
             <label>E-mail do(a) paciente</label>  
-            <input type="email" name="senderEmail" id="senderEmail"  class="form-control" required>                                                
+            <input type="email" name="senderEmail" id="senderEmail" value="joaoneves@norte.com"  class="form-control" required>                                                
         </div>
     </div>
 
@@ -63,12 +63,12 @@
         </div>
         <div class="col-md-3 col-12 col-sm-12 separador">
             <label>DDD Ex: 11</label>
-            <input type="text" name="senderAreaCode" id="senderAreaCode"  minlength="2" maxlength="2" class="form-control" required>
+            <input type="text" name="senderAreaCode" id="senderAreaCode" value="11" minlength="2" maxlength="2" class="form-control" required>
         </div>
 
         <div class="col-md-6 col-12 col-sm-12 separador">
             <label>Celular: Somente número</label>
-            <input type="text" name="senderPhone" id="senderPhone"  class="form-control" required>
+            <input type="text" name="senderPhone" id="senderPhone" value="999999999"  class="form-control" required>
         </div>
 
     </div>  
@@ -87,17 +87,17 @@
                 
         <div class="col-md-3 col-12 col-sm-12 separador">
             <label>Altura (Metros) Ex: 1,70</label>
-            <input type="text" name="altura" id="altura"  minlength="4"  class="form-control" required>
+            <input type="text" name="altura" id="altura" value="1,70"  minlength="4"  class="form-control" required>
         </div>
 
         <div class="col-md-3 col-12 col-sm-12 separador">
             <label>Peso (Kg) Ex: 70,00</label>
-            <input type="text" name="peso" id="peso"  minlength="2"  class="form-control" required>
+            <input type="text" name="peso" id="peso"  minlength="2" value="70,00"  class="form-control" required>
         </div>
 
         <div class="col-md-3 col-12 col-sm-12 separador">
             <label>Data Nasc: 12/07/1987</label>
-            <input type="text" name="dataNascimento" id="dataNascimento" minlength="10"  class="form-control" required>
+            <input type="text" name="dataNascimento" id="dataNascimento" minlength="10" value="12/07/1987"  class="form-control" required>
         </div>  
 
 
@@ -123,7 +123,7 @@
     <div class="row"> 
         <div class="col-md-3 col-12 col-sm-12 separador">
             <label>CEP: Sem traço ou ponto</label>
-            <input type="text" name="shippingAddressPostalCode" minlength="3" class="form-control" id="shippingAddressPostalCode"  required>
+            <input type="text" name="shippingAddressPostalCode" minlength="3" cep="03424030" class="form-control" id="shippingAddressPostalCode"  required>
         </div>                          
         <div class="col-md-9  col-12 col-sm-12 separador">
             <label>Endereço. Ex: Rua ou Avenida</label>
@@ -226,7 +226,7 @@
         <div class="creditCard col-md-7 col-12 col-sm-12 separador">                            
             <label class="creditCard">Número do seu cartão</label>
             <div class="input-group">
-                <input type="text"  name="numCartao" minlength="16"  class="form-control" id="numCartao">
+                <input type="text"  name="numCartao" minlength="16" value="4111111111111111"  class="form-control" id="numCartao">
                 <div class="input-group-prepend">
                     <span class="input-group-text bandeira-cartao creditCard">   </span>
                 </div>
