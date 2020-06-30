@@ -135,13 +135,13 @@ $("#formsPagamentos").on("submit", function (event) {
         "split_rules": [
           {
             // Franqueadora
-            "recipient_id": "re_ckb9uu89b0ewdb26dux205gau",
+            "recipient_id": "re_ckb9cqmup0b20en6ehro4323b",
             "amount": 2500,
             "liable": true,
             "charge_processing_fee": false
           },
           {
-            "recipient_id": "re_ckb9uv43r0f0y2w6fygkamv0c",
+            "recipient_id": "re_ckb8jfoa008t5b26dmpxe9u3f",
             "amount": 2500,
             "liable": true,
             "charge_processing_fee": true

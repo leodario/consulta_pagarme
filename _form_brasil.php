@@ -374,9 +374,6 @@
                                             
             
             <span id="aguarde">Processando! Você receberá por e-mail as informações do pagamento...</span>
-
-
-            <div id="field_errors"></div>
                             
         </div>
     </div>   
@@ -437,4 +434,3 @@
     <br><br>   
 
 </form>  
-
