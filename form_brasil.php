@@ -123,7 +123,7 @@
     <div class="row"> 
         <div class="col-md-3 col-12 col-sm-12 separador">
             <label>CEP: Sem traço ou ponto</label>
-            <input type="text" name="shippingAddressPostalCode" minlength="3" cep="03424030" class="form-control" id="shippingAddressPostalCode"  required>
+            <input type="text" name="shippingAddressPostalCode" minlength="3" value="03424030" class="form-control" id="shippingAddressPostalCode"  required>
         </div>                          
         <div class="col-md-9  col-12 col-sm-12 separador">
             <label>Endereço. Ex: Rua ou Avenida</label>
@@ -249,7 +249,7 @@
     <div class="creditCard row">
         <div class="col-md-12 mb-3 creditCard col-12 col-sm-12 separador">
             <label class="creditCard">Nome do titular igual ao do cartão.</label>
-            <input type="text" name="creditCardHolderName" class="form-control" id="creditCardHolderName"  >
+            <input type="text" name="creditCardHolderName" class="form-control" id="creditCardHolderName" value="Neo Reeves"  >
             <small id="creditCardHolderName" class="form-text text-muted">
                 Como está gravado no cartão
             </small>
@@ -259,15 +259,15 @@
     <div class="row creditCard">
         <div class="col-md-4 mb-3 creditCard col-12 col-sm-12 separador">
             <label class="creditCard">Mês de Validade. Ex: 09</label>
-            <input type="text" name="mesValidade" id="mesValidade" maxlength="2" minlength="2" value="12"  class="form-control creditCard">
+            <input type="text" name="mesValidade" id="mesValidade" maxlength="2" minlength="2" value="09"  class="form-control creditCard">
         </div>
         <div class="col-md-4  creditCard col-12 col-sm-12 separador">
-            <label class="creditCard">Ano de Validade. Ex: 30</label>
-            <input type="text" name="anoValidade" id="anoValidade" maxlength="2"  minlength="2" class="form-control creditCard">
+            <label class="creditCard">Ano de Validade. Ex: 25</label>
+            <input type="text" name="anoValidade" id="anoValidade" maxlength="2" value="25"  minlength="2" class="form-control creditCard">
         </div>
         <div class="creditCard col-md-4 col-12 col-sm-12 separador">                            
             <label class="creditCard">CVV do cartão</label>
-            <input type="text" name="numCartao" class="form-control creditCard" id="cvvCartao"  minlength="3" maxlength="3">
+            <input type="text" name="numCartao" class="form-control creditCard" id="cvvCartao" value="123"  minlength="3" maxlength="3">
             <small id="cvvCartao" class="form-text text-muted creditCard">
                 Código de 3 digitos impresso no verso do cartão
             </small>
@@ -281,11 +281,11 @@
                         
         <div class="col-md-6  creditCard col-12 col-sm-12 separador">
             <label class="creditCard">Data de Nascimento: Ex: 12/09/1978</label>
-            <input type="text" name="creditCardHolderBirthDate" id="creditCardHolderBirthDate"  class="form-control creditCard">
+            <input type="text" name="creditCardHolderBirthDate" id="creditCardHolderBirthDate" value="21/12/2000" class="form-control creditCard">
         </div>
         <div class="col-md-6  creditCard col-12 col-sm-12 separador">
             <label class="creditCard">CPF do dono do cartão: Sem traço e ponto</label>
-            <input type="text" name="creditCardHolderCPF" minlength="11" id="creditCardHolderCPF" class="form-control creditCard">
+            <input type="text" name="creditCardHolderCPF" minlength="11" id="creditCardHolderCPF" value="00000000000" class="form-control creditCard">
         </div>
     </div>
 
@@ -306,7 +306,7 @@
     <div class="row creditCard">
         <div class="col-md-3 col-sm-12 separador">
             <label class="creditCard">CEP: Sem traço ou ponto</label>
-            <input type="text" name="billingAddressPostalCode" class="form-control creditCard" minlength="8" id="billingAddressPostalCode" >
+            <input type="text" name="billingAddressPostalCode" value="06714360" class="form-control creditCard" minlength="8" id="billingAddressPostalCode" >
         </div>
         <div class="col-md-9 mb-3 creditCard col-12 col-sm-12 separador">
             <label class="creditCard">Endereço. Ex: Rua ou Avenida</label>
