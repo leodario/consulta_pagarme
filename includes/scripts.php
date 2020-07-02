@@ -11,3 +11,4 @@
 <script type="text/javascript" src="https://brands-comercio.mktzap.com.br/webchat/rkzaii1mhthk2ae86b13"></script>
 <script type="text/javascript" src="js/funcoes.js"></script>     
 <script src="js/pagarmePersonalizado.js"></script>
+<script src="https://assets.pagar.me/checkout/1.1.0/checkout.js"></script>

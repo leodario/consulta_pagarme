@@ -100,7 +100,7 @@ $("#formsPagamentos").on("submit", function (event) {
       dataType: 'json',
       success: function (retorna) {
         console.log(retorna);
-        window.setTimeout("location.href='https://www.5sgrupo.com.br/decidi-emagrecer/'", 6000)
+      /*  window.setTimeout("location.href='https://www.5sgrupo.com.br/decidi-emagrecer/'", 6000) */
       },
       error: function (retorna) {
         console.log(retorna);
@@ -159,7 +159,7 @@ $("#formsPagamentos").on("submit", function (event) {
      
     });    
   }
-  /*
+  
   $.ajax({
     dataType: 'json',
     method: "POST",
@@ -190,7 +190,7 @@ $("#formsPagamentos").on("submit", function (event) {
       return false;
     }
   });
-*/
+
 })
 
 function tipoPagamento(paymentMethod) {
@@ -204,3 +204,75 @@ function tipoPagamento(paymentMethod) {
     $('.cartao-credito-select').removeAttr("required");
   }
 }
+
+
+var button = document.querySelector('button')
+
+button.addEventListener('click', function() {
+  let telefone = $('#senderAreaCodeInter').val() + $('#senderAreaCode').val() + $('#senderPhone').val();
+  function handleSuccess (data) {
+    console.log(data);
+  }
+
+  function handleError (data) {
+    console.log(data);
+  }
+  
+  function handleClose () {
+    console.log('The modal has been closed.')
+  }
+
+  var checkout = new PagarMeCheckout.Checkout({
+    encryption_key: 'ek_test_szyzLoKkzA915Rhg80hOEcGaoxJ03r',
+    success: handleSuccess,
+    error: handleError,
+    close: handleClose
+  });
+
+  checkout.open({
+    amount: 5000,
+    /*maxInstallments: 12,
+    defaultInstallment: 4, */
+    customerData: 'false',
+    createToken: 'true',
+    paymentMethods: 'boleto,credit_card',
+    "customer": {
+      "external_id": $('#idClinica').val(),
+      "name": $('#creditCardHolderName').val(),
+      "type": "individual",
+      "country": "br",
+      "email": $('#senderEmail').val(),
+      "documents": [
+        {
+          "type": "cpf",
+          "number": $('#cpf').val()
+        }
+      ],
+      "phone_numbers": [telefone]
+     
+    },
+    "billing": {
+      "name": $('#creditCardHolderName').val(),       
+      "address": {
+        "country": "br",
+        "state": $('#billingAddressState').val(),
+        "city": $('#billingAddressCity').val(),
+        "neighborhood": $('#billingAddressDistrict').val(),
+        "street": $('#billingAddressStreet').val(),
+        "street_number": $('#billingAddressNumber').val(),
+        "zipcode": $('#billingAddressPostalCode').val()
+      }   
+    },
+
+    "items": [
+      {
+        "id": "r123",
+        "title": "Decidi Emagrecer - Consulta",
+        "unit_price": 5000,
+        "quantity": 1,
+        "tangible": false
+      }
+    ]
+  });
+});
+

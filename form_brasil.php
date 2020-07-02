@@ -277,17 +277,7 @@
 
                     
 
-    <div class="row creditCard">
-                        
-        <div class="col-md-6  creditCard col-12 col-sm-12 separador">
-            <label class="creditCard">Data de Nascimento: Ex: 12/09/1978</label>
-            <input type="text" name="creditCardHolderBirthDate" id="creditCardHolderBirthDate" value="21/12/2000" class="form-control creditCard">
-        </div>
-        <div class="col-md-6  creditCard col-12 col-sm-12 separador">
-            <label class="creditCard">CPF do dono do cartão: Sem traço e ponto</label>
-            <input type="text" name="creditCardHolderCPF" minlength="11" id="creditCardHolderCPF" value="00000000000" class="form-control creditCard">
-        </div>
-    </div>
+   
 
     <br>
 
@@ -397,6 +387,7 @@
     <div class="row">
         <div class="col-md-12">                             
             <input type="submit" name="btnComprar" id="btnComprar" value="Pagar consulta">
+           
         </div>
     </div> 
  
@@ -436,5 +427,9 @@
 
     <br><br>   
 
+    <button>Comprar</button>
+
 </form>  
+
+
 
