@@ -220,65 +220,7 @@
             <input type="hidden" name="hashCartao" id="hashCartao">
         </div>    
     </div>
-
-                    
-    <div class="row">
-        <div class="creditCard col-md-7 col-12 col-sm-12 separador">                            
-            <label class="creditCard">Número do seu cartão</label>
-            <div class="input-group">
-                <input type="text"  name="numCartao" minlength="16" value="4111111111111111"  class="form-control" id="numCartao">
-                <div class="input-group-prepend">
-                    <span class="input-group-text bandeira-cartao creditCard">   </span>
-                </div>
-            </div>
-            <small id="numCartao" class="form-text text-muted">
-                Digite o número do cartão
-            </small>                              
-        </div>
-<!--
-        <div class=" creditCard col-md-5 col-12 col-sm-12 separador">
-            <label class="creditCard">Quantidades de Parcelas</label>
-            <select name="qntParcelas" id="qntParcelas" class="form-control select-qnt-parcelas creditCard">
-            </select>
-        </div>
-        -->
-    </div>
-
-                
-
-    <div class="creditCard row">
-        <div class="col-md-12 mb-3 creditCard col-12 col-sm-12 separador">
-            <label class="creditCard">Nome do titular igual ao do cartão.</label>
-            <input type="text" name="creditCardHolderName" class="form-control" id="creditCardHolderName" value="Neo Reeves"  >
-            <small id="creditCardHolderName" class="form-text text-muted">
-                Como está gravado no cartão
-            </small>
-        </div>    
-    </div>
-
-    <div class="row creditCard">
-        <div class="col-md-4 mb-3 creditCard col-12 col-sm-12 separador">
-            <label class="creditCard">Mês de Validade. Ex: 09</label>
-            <input type="text" name="mesValidade" id="mesValidade" maxlength="2" minlength="2" value="09"  class="form-control creditCard">
-        </div>
-        <div class="col-md-4  creditCard col-12 col-sm-12 separador">
-            <label class="creditCard">Ano de Validade. Ex: 25</label>
-            <input type="text" name="anoValidade" id="anoValidade" maxlength="2" value="25"  minlength="2" class="form-control creditCard">
-        </div>
-        <div class="creditCard col-md-4 col-12 col-sm-12 separador">                            
-            <label class="creditCard">CVV do cartão</label>
-            <input type="text" name="numCartao" class="form-control creditCard" id="cvvCartao" value="123"  minlength="3" maxlength="3">
-            <small id="cvvCartao" class="form-text text-muted creditCard">
-                Código de 3 digitos impresso no verso do cartão
-            </small>
-        </div>
-                    
-    </div>
-
-                    
-
    
-
     <br>
 
     <div class="row">   

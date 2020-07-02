@@ -212,6 +212,16 @@ button.addEventListener('click', function() {
   let telefone = $('#senderAreaCodeInter').val() + $('#senderAreaCode').val() + $('#senderPhone').val();
   function handleSuccess (data) {
     console.log(data);
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      if(this.responseText  !== "Transação não finalizada"){
+        alert('Transação realizada!')              
+    }
+  }
+};
+xhttp.open("POST", "functions.php?allData=" + data.token, true);
+xhttp.send();
   }
 
   function handleError (data) {

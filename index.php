@@ -4,6 +4,8 @@
 
 <?php include 'includes/container1.php'; ?>
 
+<?php include 'includes/verifica.php'; ?>
+
 <?php include 'form_brasil.php'; ?>                            
 
 <?php include 'includes/rodape.php'; ?>
