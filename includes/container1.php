@@ -1,13 +1,29 @@
  
 <div class="container-fluid">
 
-    <div class="col-12">
-        <img src="img/imagem-de-topo.png" width="100%" />
-    </div>
+    <div class="row">
 
-    <div class="col-12">
-        <img src="img/segunda-parte.png" width="100%" />
-    </div>
+        <div class="col-12">
+            <img src="img/imagem-de-topo.png" width="100%" />
+        </div>
+
+        <div class="col-12">
+            <img src="img/segunda-parte.png" width="100%" />
+        </div>
+
+        <div class="col-12">
+            <img src="img/terceira-parte.png" width="100%" />
+        </div>
+
+        <div class="col-12">
+            <img src="img/quarta-parte.png" width="100%" />
+        </div>
+
+        <div class="col-12">
+            <img src="img/quinta-e-ultima-parte.png" width="100%" />
+        </div>
+
+    </row>
 
 </div>
 
@@ -24,7 +40,7 @@
     <div class="row">   
         <div class="col-12">
             <br>
-            <h1 style="text-align: center;"><strong style="color: rgb(126, 211, 33); font-family: Ubuntu, sans-serif;">Consulta </strong><strong style="color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif;">com especialista</strong></h1> 
+            <h1 style="text-align: center;"><strong style="color: rgb(242, 141, 46); font-family: Ubuntu, sans-serif;">Consulta </strong><strong style="color: rgb(0, 0, 0); font-family: Ubuntu, sans-serif;">com especialista</strong></h1> 
         </div> 
         <div class="col-12">
             <br>

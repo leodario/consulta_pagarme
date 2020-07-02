@@ -1,7 +1,7 @@
 <br>
     <div class="row">   
         <div class="col-md-12">                   
-            <div class="compra_segura2"><img src="https://online.decidiemagreceroficial.com.br/consulta/img/logo_pagamento.png"/></div> 
+            <div class="compra_segura2"><img src="https://online.5sestilodevida.com.br/consulta/img/logo_pagamento.png"/></div> 
         </div>     
     </div>    
 </div>                     

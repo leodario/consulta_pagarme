@@ -2237,18 +2237,18 @@ html,
 
 h1,h2,h3,h4,h5,label,.cor-texto{
     font-family: 'Ubuntu', sans-serif !important;
-    color: #5d5f00;
+    color: #f28d2e;
 }
 .titulo-documento{
     padding-bottom: 5px;
 }
 
 input, select{
-    border: 1px solid #5d5f00 !important;
+    border: 1px solid black !important;
 }
 
 #btnComprar{
-    background: green;
+    background: #9dc450;
     color: white;
     font-size: 2em !important;
     font-family: 'Ubuntu', sans-serif !important;
