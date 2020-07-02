@@ -1,9 +1,5 @@
 <br>
-    <div class="row">   
-        <div class="col-md-12">                   
-            <div class="compra_segura2"><img src="https://online.5sestilodevida.com.br/consulta/img/logo_pagamento.png"/></div> 
-        </div>     
-    </div>    
+     
 </div>                     
     
         <div class="fechar-btn">
@@ -12,7 +8,7 @@
                 Agendar Consulta
             </a>
         </div> 
-
+</div>
         <section id="rd-section-joq3m2na" class="bricks--section rd-section">
             
             <div id="rd-row-joq3m2nb" class="bricks--row rd-row">   

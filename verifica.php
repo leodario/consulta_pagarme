@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 
 $token = $_REQUEST['allData']);
 
-$pagarme = new PagarMe\Client('SUA_CHAVE_API');
+$pagarme = new PagarMe\Client('ak_test_Wx0bpUdLNijiW3xKxzijTb1O0o70v8');
 
 $capturedTransaction = $pagarme->transactions()->capture([
     'id' => $token,

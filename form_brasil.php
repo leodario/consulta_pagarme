@@ -185,48 +185,14 @@
 
     <div class="separador col-md-12"></div>
         
-    <div class="row">
-        <div class="col-md-12">
-            <h4 class="mb-3 escolha-pagamento">Escolha a forma de pagamento</h4>
-
-            <div class="custom-control custom-radio">
-                <input type="radio" name="paymentMethod" required class="custom-control-input cartao-credito-select" id="creditCard" value="creditCard" onclick="tipoPagamento('creditCard')">
-                <label class="custom-control-label" for="creditCard">Cartão de Crédito</label>
-            </div>
-                        
-            <div class="custom-control custom-radio tipo-boleto">
-                <input type="radio" name="paymentMethod" class="custom-control-input" id="boleto" value="boleto" onclick="tipoPagamento('boleto')">
-                <label class="custom-control-label" for="boleto">Boleto</label>
-            </div>
-            <br>
-                    <!--
-                        <div class="custom-control custom-radio">
-                            <input type="radio" name="paymentMethod" class="custom-control-input" id="eft" value="eft" onclick="tipoPagamento('eft')">
-                            <label class="custom-control-label" for="eft">Débito Online</label>
-                        </div>
-                    -->
-                    <!-- Pagamento com débito online -->
-            <div class="mb-3 bankName">
-                <label class="bankName">Banco</label>
-                <select name="bankName" id="bankName" class="form-control select-bank-name bankName">
-                </select>
-            </div>
-            <br>
-
-                    <!-- Pagamento com cartão de crédito -->
-            <input type="hidden" name="bandeiraCartao" id="bandeiraCartao">
-            <input type="hidden" name="valorParcelas" id="valorParcelas">
-            <input type="hidden" name="tokenCartao" id="tokenCartao">
-            <input type="hidden" name="hashCartao" id="hashCartao">
-        </div>    
-    </div>
+    
    
     <br>
    
 
     <div class="row">   
         <div class="col-md-12 col-sm-12">         
-            <h3 class="mb-3 creditCard">Dados do titular do cartão</h3>
+            <h3 class="mb-3 creditCard">Dados do titular do cartão ou responsável pelo boleto</h3>
         </div>    
     </div>
 
@@ -234,16 +200,16 @@
 
     <div class="row creditCard">
         <div class="col-md-12 col-sm-12">
-            <a id="copiarDados">Usar o mesmo endereço do(a) paciente</a>
+            <a id="copiarDados">Usar o mesmos dados do(a) paciente</a>
         </div>
     </div>
 
     <div class="creditCard row">
         <div class="creditCard col-12">
-            <label class="creditCard">Nome do titular igual ao do cartão.</label>
-            <input type="text" name="creditCardHolderName" class="form-control" value="João Comprador" id="creditCardHolderName"  >
+            <label class="creditCard">Nome do titular igual ao do cartão ou boleto.</label>
+            <input type="text" name="creditCardHolderName" class="form-control" value="João Comprador" id="creditCardHolderName" required  >
             <small id="creditCardHolderName" class="form-text text-muted">
-                Como está gravado no cartão
+                Como está gravado no cartão ou responsável pelo boleto
             </small>
         </div>    
     </div>
@@ -251,11 +217,11 @@
     <div class="row creditCard">
         <div class="col-md-3 col-sm-12 separador">
             <label class="creditCard">CEP: Sem traço ou ponto</label>
-            <input type="text" name="billingAddressPostalCode" value="06714360" class="form-control creditCard" minlength="8" id="billingAddressPostalCode" >
+            <input required type="text" name="billingAddressPostalCode" value="06714360" class="form-control creditCard" minlength="8" id="billingAddressPostalCode" >
         </div>
         <div class="col-md-9 mb-3 creditCard col-12 col-sm-12 separador">
             <label class="creditCard">Endereço. Ex: Rua ou Avenida</label>
-            <input type="text" name="billingAddressStreet" id="billingAddressStreet" minlength="4"  class="creditCard form-control">
+            <input required type="text" name="billingAddressStreet" id="billingAddressStreet" minlength="4"  class="creditCard form-control">
         </div>
 
     </div>
@@ -263,7 +229,7 @@
     <div class="row creditCard">
         <div class="col-md-4 mb-3 creditCard col-12 col-sm-12 separador">
             <label class="creditCard">Número: Se for sem número deixe 0 (zero)</label>
-                <input type="text" name="billingAddressNumber" id="billingAddressNumber" value="0" minlength="1" class="creditCard form-control">
+                <input required type="text" name="billingAddressNumber" id="billingAddressNumber" value="0" minlength="1" class="creditCard form-control">
         </div>
                     
         <div class="creditCard col-md-8 col-sm-12 separador">
@@ -276,17 +242,17 @@
     <div class="row creditCard">
         <div class="col-md-5 mb-3 creditCard col-12 col-sm-12 separador">
             <label class="creditCard">Bairro</label>
-            <input type="text" name="billingAddressDistrict" id="billingAddressDistrict" minlength="3"  class="creditCard form-control">
+            <input required type="text" name="billingAddressDistrict" id="billingAddressDistrict" minlength="3"  class="creditCard form-control">
         </div>
 
         <div class="col-md-5 mb-3 creditCard col-12 col-sm-12 separador">
             <label class="creditCard">Cidade</label>
-            <input type="text" name="billingAddressCity" id="billingAddressCity" minlength="3"  class="creditCard form-control">
+            <input required type="text" name="billingAddressCity" id="billingAddressCity" minlength="3"  class="creditCard form-control">
         </div>
 
         <div class="col-md-2 mb-3 creditCard col-12 col-sm-12 separador">
             <label class="creditCard">Estado</label>
-            <select name="billingAddressState" class="custom-select d-block w-100 creditCard" id="billingAddressState">
+            <select required name="billingAddressState" class="custom-select d-block w-100 creditCard" id="billingAddressState">
 
                 <?php include 'includes/unidade_federal.php'; ?>
 
@@ -341,8 +307,8 @@
 
     <div class="row">
         <div class="col-md-12">                             
-            <input type="submit" name="btnComprar" id="btnComprar" value="Pagar consulta">
-           
+            <input type="submit" name="btnComprar" id="btnComprar" value="Continuar">
+            
         </div>
     </div> 
  
@@ -382,8 +348,7 @@
 
     <br><br>   
 
-    <button>Comprar</button>
-
+   
 </form>  
 
 

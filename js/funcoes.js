@@ -55,7 +55,8 @@ $(document).ready(function(){
             }
         });
     });
-    $('#copiarDados').click(function(){                        
+    $('#copiarDados').click(function(){      
+        $('#creditCardHolderName').val($('#senderName').val());                  
         $('#billingAddressStreet').val($('#shippingAddressStreet').val());
         $('#billingAddressNumber').val($('#shippingAddressNumber').val());
         $('#billingAddressComplement').val($('#shippingAddressComplement').val());
