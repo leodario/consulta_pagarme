@@ -222,17 +222,30 @@
     </div>
    
     <br>
+   
 
     <div class="row">   
         <div class="col-md-12 col-sm-12">         
-            <h3 class="mb-3 creditCard">Endereço do titular do cartão</h3>
+            <h3 class="mb-3 creditCard">Dados do titular do cartão</h3>
         </div>    
     </div>
+
+    
 
     <div class="row creditCard">
         <div class="col-md-12 col-sm-12">
             <a id="copiarDados">Usar o mesmo endereço do(a) paciente</a>
         </div>
+    </div>
+
+    <div class="creditCard row">
+        <div class="creditCard col-12">
+            <label class="creditCard">Nome do titular igual ao do cartão.</label>
+            <input type="text" name="creditCardHolderName" class="form-control" value="João Comprador" id="creditCardHolderName"  >
+            <small id="creditCardHolderName" class="form-text text-muted">
+                Como está gravado no cartão
+            </small>
+        </div>    
     </div>
 
     <div class="row creditCard">
