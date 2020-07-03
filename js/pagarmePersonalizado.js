@@ -8,7 +8,6 @@ var button = document.querySelector('#btnComprar')
 
 
 
-
 $("#formsPagamentos").on("submit", function (event) {
   event.preventDefault();
   let telefone = $('#senderAreaCodeInter').val() + $('#senderAreaCode').val() + $('#senderPhone').val();
