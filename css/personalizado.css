@@ -2351,7 +2351,7 @@ input, select{
 }
 .btnSupEsquerdo{
     display: block;
-    background: green;    
+    background: #9dc450;    
     color: white;
     padding: 15px;
     border-radius: 5px;   

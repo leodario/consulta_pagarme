@@ -1,13 +1,17 @@
 <?php
+
+include 'includes/avalia.php'; 
+
 require __DIR__ . '/vendor/autoload.php';
 
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$token = $_REQUEST(['allData']);
-
-$pagarme = new PagarMe\Client('ak_test_Wx0bpUdLNijiW3xKxzijTb1O0o70v8');
+$token = $_REQUEST['allData'];
+// teste => ak_test_Wx0bpUdLNijiW3xKxzijTb1O0o70v8
+// produção => ak_live_2AqDvNA8WMS4RdI3AbbCa2NMDhBTBa
+$pagarme = new PagarMe\Client('ak_test_Wx0bpUdLNijiW3xKxzijTb1O0o70v8'); 
 
 $capturedTransaction = $pagarme->transactions()->capture([
     'id' => $token,
@@ -21,8 +25,8 @@ $capturedTransaction = $pagarme->transactions()->capture([
       ],
       [
         'percentage' => '50',
-        'recipient_id' => 're_ckb9d38js0bglb76dsz6227xk',
-        'charge_processing_fee' => 'true',        
+        'recipient_id' => $idClinica,
+        'charge_processing_fee' => true,        
         'liable' => true
       ]
     ]

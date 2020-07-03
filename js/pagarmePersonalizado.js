@@ -1,12 +1,4 @@
-
-
-
 var button = document.querySelector('#btnComprar')
-
-
-
-
-
 
 $("#formsPagamentos").on("submit", function (event) {
   event.preventDefault();
@@ -22,12 +14,12 @@ $("#formsPagamentos").on("submit", function (event) {
             method: "POST",
             url: "https://demapi.azurewebsites.net/api/usuariolead/landpage/lead",
             data: {
-             // "nomeCompleto": retorna.DadosArray.senderName,
+              "nomeCompleto": $('#senderName').val(),
               "email": $('#senderEmail').val(),
               "dataNascimento": $("#dataNascimento").val(),
               "peso": $('#peso').val(),
               "altura": $('#altura').val(),
-            //  "pgTransactionId": retorna.dados.code,
+              "pgTransactionId": data.token,
               "CPF": $('#cpf').val(),
               "sexo": $('#sexo').val(),
               "telefone": $('#senderAreaCodeInter').val() + $('#senderAreaCode').val() + $('#senderPhone').val(),
@@ -37,7 +29,7 @@ $("#formsPagamentos").on("submit", function (event) {
             dataType: 'json',
             success: function (retorna) {
               console.log(retorna);
-              window.setTimeout("location.href='https://www.5sgrupo.com.br/decidi-emagrecer/'", 6000)
+             // window.setTimeout("location.href='https://www.5sgrupo.com.br/decidi-emagrecer/'", 6000)
             },
             error: function (retorna) {
               console.log(retorna);
@@ -65,7 +57,9 @@ $("#formsPagamentos").on("submit", function (event) {
   }
 
   var checkout = new PagarMeCheckout.Checkout({
-    encryption_key: 'ek_test_szyzLoKkzA915Rhg80hOEcGaoxJ03r',
+    // teste => ek_test_szyzLoKkzA915Rhg80hOEcGaoxJ03r
+    // produção => ek_live_25ivbLiwWY08soDRbAQKlry7Ridlit
+    encryption_key: 'ek_test_szyzLoKkzA915Rhg80hOEcGaoxJ03r', 
     success: handleSuccess,
     error: handleError,
     close: handleClose

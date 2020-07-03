@@ -29,12 +29,12 @@
     -->
     <div class="row"> 
 
-        <div class="col-md-2 col-12 col-sm-12 col-12 separador">
+        <div class="col-md-5 col-12 col-sm-12 col-12 separador">
             <label>Código da Clínica</label>                        
             <input type="text" name="idClinica" id="idClinica" <?php echo $habilitar; echo $habilitar2; ?>  value="<?php echo $idClinica; ?>" class="form-control" required>                        
         </div>  
 
-        <div class="col-md-10 col-12 col-sm-12 separador">
+        <div class="col-md-7 col-12 col-sm-12 separador">
             <label>Nome Completo</label>                            
             <input type="text" name="senderName" id="senderName" minlength="4" value="João das Neves" class="form-control" required>                       
         </div>    

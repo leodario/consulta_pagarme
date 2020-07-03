@@ -13,7 +13,7 @@ if (isset($_GET['idclinica'])) {
     if($variavelId == true){
         $idClinica = $_GET['idclinica'];        
     } else{
-        $idClinica = 1; 
+        $idClinica = 're_ckc6m40uu06eq7z6fhjo2lh2e'; 
         $modalClinica = "<script>alert('Código da Clínica inexistente! Peça à sua clínica o link correto!');</script>";
         echo $modalClinica;
         $habilitar2 = "disabled";
@@ -21,12 +21,12 @@ if (isset($_GET['idclinica'])) {
     }
    
 } else {
-    $idClinica = 1; 
+    $idClinica = 're_ckc6m40uu06eq7z6fhjo2lh2e'; 
 }
 
 $habilitar;
 
-if($idClinica == 1){
+if($idClinica == 're_ckc6m40uu06eq7z6fhjo2lh2e'){
     $habilitar = "";
 } else {
     $habilitar = "disabled";
